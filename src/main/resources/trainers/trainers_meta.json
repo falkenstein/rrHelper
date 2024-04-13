@@ -1,0 +1,79 @@
+{
+  "trainers": [
+    {
+      "name": "Brock_1",
+      "id": "(id: 0x19e)",
+      "phase": "BROCK"
+    },
+    {
+      "name": "Misty_1",
+      "id": "(id: 0x19f)",
+      "phase": "MISTY"
+    },
+    {
+      "name": "Bugsy",
+      "id": "(id: 0x2f)",
+      "phase": "MISTY"
+    },
+    {
+      "name": "Surge",
+      "id": "(id: 0x1a0)",
+      "phase": "SURGE"
+    },
+    {
+      "name": "Whitney",
+      "id": "(id: 0x31)",
+      "phase": "SURGE"
+    },
+    {
+      "name": "Erika",
+      "id": "(id: 0x1a1)",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "Morty",
+      "id": "(id: 0x34)",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "Giovanni 1",
+      "id": "(id: 0x15c)",
+      "phase": "GIOVANNI_1"
+    },
+    {
+      "name": "Giovanni 2",
+      "id": "(id: 0x15d)",
+      "phase": "GIOVANNI_2"
+    },
+    {
+      "name": "Sabrina",
+      "id": "(id: 0x1a4)",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "Koga",
+      "id": "(id: 0x1a2)",
+      "phase": "KOGA"
+    },
+    {
+      "name": "Brock 2",
+      "id": "(id: 0x38)",
+      "phase": "KOGA"
+    },
+    {
+      "name": "Misty 2",
+      "id": "(id: 0x30)",
+      "phase": "KOGA"
+    },
+    {
+      "name": "Surge 2",
+      "id": "(id: 0x33)",
+      "phase": "KOGA"
+    },
+    {
+      "name": "Erika 2",
+      "id": "(id: 0x41)",
+      "phase": "KOGA"
+    }
+  ]
+}

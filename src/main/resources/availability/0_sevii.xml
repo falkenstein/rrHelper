@@ -1,0 +1,1094 @@
+<tbody>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(238, 129, 48, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">84</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,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">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Doduo</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(238, 129, 48);">Fire</div>
+            <div class="typeWrapper" style="background-color: rgb(177, 149, 79);">Ground</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Rock Head</div>
+            <div class="speciesAbilitiesSecondary">Early Bird</div>
+            <div class="speciesAbilitiesHidden">Anger Point</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">40</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">80</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">45</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">35</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">35</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">75</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">310</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(238, 129, 48, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">85</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,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">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Dodrio</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(238, 129, 48);">Fire</div>
+            <div class="typeWrapper" style="background-color: rgb(177, 149, 79);">Ground</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Rock Head</div>
+            <div class="speciesAbilitiesSecondary">Early Bird</div>
+            <div class="speciesAbilitiesHidden">Anger Point</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">65</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">125</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">65</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">40</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">65</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">110</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">470</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(115, 87, 151, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">216</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABYBJREFUeF7tWq1/2lAUfVNDUsccrnVjLhLJ1CqRkZOV+xPmhkQiKzs1JJKqIVuHW1wjcd3vpD3p5fK+kkDHSp6iyfs655778V76zpx4e3fi+E1LQKuAE2egdYETF0AbBFsXaF3gxBloXeDEBfA2ssDVZvUIQ2ZZZq77o0qqrtT52NUCIqqS8KYIgIGqkvCmCKjjCm+OgJN1gTrWh8sclQJGvW4RzdHmWR69t/F6/tjr9Ypx/60CAH7Q65SJZpVtokmg9TkYJKDFpMRolkMpUFqvqgU1eK6lSQDQSWewtWcNXu4zRg2NCSDwr4N+uXaW5+bbXW7y/EXGmqDl5mWrSccYaX0fARqUjwCbS7A/iWxEAEBJ4JL9ZZaZ6XpjAA5N9sM72WBptBAJOtBp8F3ztFhuXtiVhNlqhL0RAKuvN8KsxhQEzJIXZWg3shEBEkgcftvcgJZl4MPfAH/xTMCd2eyQgL42l6hNgLS+tLa2YvIcnV0xRJMA8Gxf+7sE4J3N8gTPsZoEV4bYCwHT1drQp7FpNoBf3MzM8DL1xlAbCYwLvmxAIqT1XQS4AuJeCEiX6y2rVSUAJHWS0RZJdINQPQASQgSsViuzSFIr1koE6AjK9AUrQQEymkvph1QABWyWc3PXH5aBEATILOKSkE0FUv4+8JgzmgCZg7mo3LDcoPZ7EIC+OhtwDFzoYr0wP95/NJ8/nEWTEJMFsAZSnq2GqESABCgXnvWGhn7vCnggAI0AdeokAehTRQXYByw8GAy8McYVAGsRYCs8QAKaK+VR4gQ4WSyL/pPJEzFXV6mZjZ/mSK8X5W+fGxA8fNtXDIEgpEBXWRztAqTYthgibJ6Mt4odbRJYGe3Xn4etV/f39zvWIxkhAnSRoyfaeylsO3SAXakAZgSthi+/fu8AtYFnJ5AQCoS2uMTxMeAru4AkgAvgGQh4eHgwZ2dnZrlcmiRJioxAX7eBl8GO0pcMYY6YLOBSZij6c1y0C9isT78iCdLq8HukRyl5CXr9HBixkf5lWvi+JoB/xxJhOyvo06OWYSUCmE50VO12u49QwM/Pn8r5Wd1BxlCFlDZyPs/sPvBU0z8nwOVrdAMQYMsCVAGjftFnPCyKHjRUf7Q8JE/ATKuhGFBkEHFHoFUasn50DNBFhC0WuI7GLhJcfi9riovJdRFPfArg3uSeYv0/SIAufV0Bh0oIkYDxUg3lfMOkKKV1QcWMEnIBm0F2Uo7jQXQMkONdtcB8MPYWQ3IOXoJI4Hgvq0kQEAKvjRKb/ipnAU2ADIjyHUpZ1y0R+rkuQTR4FE6hk6BNkVXkH3QBl4x8MaEIdJ7SGH59fn5eTo3UqAnjBUsT67sOP7XToB5oW0CeEm0q0OA5Jwoo1hCx4F3BjwejmAxQWwGSDNt1uC0YavAogxfpqLhHRDyQd4E26YdUxz3FAm8UAzjYBhS+CzAymNnA88DDuUI5P0RAVd9vTIDvShw3xL1utxTKPgjAZDbZ43ld8I1cIPRNwKcALAwXoAoupzdmNBqZNFsUtze+4KvfVU17ewuCIQL6nU6pAihiOJtvRX9u5Pb2tgTvAu56ru8Dqvp/YwVoX2eehz+jqqMKmPtZ98s0SAJGq+vi5ia2UfauajV2nlqVICbHAUh+A5AL+j51oZ88+spaH5+55TwxhNSxulyjNgEuEmSJy++Crm9+KIN9xY4mBGtC9q47/lir740AkiAnJCCpEOZ5rZLYUrcOsNgxjRTgWkS7h/zYKceEcn8siCb9Dk6ABGn7R4g8Sc10+v0g+4gh5iALQwG43cG9vwRnC5wIiKFLjxggdfschADGBluA4/WZLW7UBdFk3MEIaLKp1xzbEvCabB/jWq0CjtEqr7mnVgGvyfYxrvUXKDZgfQ4ZyB0AAAAASUVORK5CYII=">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Teddiursa</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(115, 87, 151);">Ghost</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Pickup</div>
+            <div class="speciesAbilitiesSecondary">Quick Feet</div>
+            <div class="speciesAbilitiesHidden">Cursed Body</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">55</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">80</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">50</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">45</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">50</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">50</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">330</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(115, 87, 151, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">217</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,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">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Ursaring</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(115, 87, 151);">Ghost</div>
+            <div class="typeWrapper" style="background-color: rgb(194, 46, 40);">Fighting</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Guts</div>
+            <div class="speciesAbilitiesSecondary">Quick Feet</div>
+            <div class="speciesAbilitiesHidden">Cursed Body</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">100</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">110</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">90</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">55</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">90</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">55</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">500</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(207, 154, 9, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">226</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,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">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Mantine</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(207, 154, 9);">Electric</div>
+            <div class="typeWrapper" style="background-color: rgb(163, 62, 161);">Poison</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Static</div>
+            <div class="speciesAbilitiesSecondary">Storm Drain</div>
+            <div class="speciesAbilitiesHidden">Hydration</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">80</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">30</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">70</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">100</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">120</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">95</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">495</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(99, 144, 240, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">349</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABJRJREFUeF7tmi182kAYxq+usnXghmRuOHBLXeqoK27UMde5MTXmVllXZOuGK27MUde6VWYuuFXiut9z4clejuNjvxxpWHKGcgmXe/73vO99pHsq52Uv5/pVAaBwQM4JFCGQcwMUSbAIgSIEck6gCIGcG6CYBYoQKEIg5wSKEMiKAZqn9WfZl8HNnR4cWc86l31O3QE2oaj7eO5rXQ93j/pzOA70p6xH3XgUqMlk4qzfzhqyjUqpVHqWnV0m1BRPAMvqXTphawAo9vj4Mh4x1nGUpVBZt8ridAbucQEiVQCMaYzspoIlDIg3QyIphK0AYJyjs9IBSQG8qVfn8gQdlASCcwCI+9vbjvpyMVR+o6I73O2NdBgADOs4sn0V3SNLW0UJcJMCV2QSACyOzkGwCUCK7px2tM4gjLK/HtUfo/jvdTAyCaDX9SIhBoB3TV/P9d7VVSyQwivlyN5mGbw/iZ1kXksqHu05CwHGPeZpEwBGvDp6UL7/SmuYNrszQAiTaP6XZX/Qm7tvGYTMAJDTG0edDggbnvLfeqp6902LeqyfRJ8BwmNRPK4RAGHZALgQ78wBTHzm1IaRh3izXB61VOf7tYLtEQKAMTqLXMH6dS7IFAB0HBBofXxfJh5iq5Uo8wPAh9e1BUCEwAuAcYMQms0qrsQ7cwDjnx2k+MOba63h92krtr1NfBiG+vplt616/aH6+vPemhMAgSXJ1CcbT5wEzeWtKZ4PAwRanzkAtqd43lculxcAIEyYQy6mhyro9Z1tiFIDMK43Yuvr0T5qqW7bV51eX0E0QIRBqGqNmgYg1wW2HOJqR5gYgIx9LHgQvywMAXyXAJj0zNFnCMg2FhLEDF5mAMgEaAKQnZfJD6OPYrO/d9Wbc0rmAcj1fRIALzH6iWcBecCBxrDzQ1zLzM8RlAmQDmAOkNl/Vewzd7iyf2IAXABRpAQgISAX3D9OVK1a0lOiXPjwt2biM6dQCTIzABj/DS9a2HD/L11AIRKAnAZtMS+TJ35X+XwepwK4J1MAZJJCSGAzRADyGgHYwgN1wacLW76L6wDBtfjEIYAG5Ckv9/6bApDuaO4fqOODshXC7VOoBtMnNRzfOx39xABsp7xoFLPBOgimO/qlqmpPcIgyvwz2GzWFa4BwNopOllZa5R8vJmrMnAXwbOwIAUCDmM0I7JMMA9aVKvtqOPyl6IDy4O9CSmoJmy2Fa5kGILfDNheYACB+EkwVIWCkUWxOQL1r8YlDQOYA87DTFgoSgBQPCCi4buaCbVmf7koUAtKiWBNgOjRBmE7YBALbZT7Yxsg7B4AGzUMRPkRCsOWBURCdCHuVKARwJrAty5s50pkDVgFgOMAhEEkIFC5Pely//Fw3KTgFIDdGtrc46Azf8OqRnh2fy066PO5aJ95JEjQfQggEIN8Q8V5cW/ZucOcByJmBgs3E+N8DWOYK1EM8XMG3vKgzX5e7OvB8kRBY9lC5agQAFAkB31Gfpvit5IBV1Llxsv3/D36XtvjUAWxiybTvcToNpt15F88rALiguMttFA7Y5dFz0ffCAS4o7nIbuXfAH2BKIW7C+0gvAAAAAElFTkSuQmCC">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Feebas</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(99, 144, 240);">Water</div>
+            <div class="typeWrapper" style="background-color: rgb(177, 149, 79);">Ground</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Swift Swim</div>
+            <div class="speciesAbilitiesSecondary">Oblivious</div>
+            <div class="speciesAbilitiesHidden">Adaptability</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">20</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">15</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">20</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">10</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">55</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">80</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">200</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(214, 133, 173, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">350</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,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">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Milotic</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(214, 133, 173);">Fairy</div>
+            <div class="typeWrapper" style="background-color: rgb(177, 149, 79);">Ground</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Marvel Scale</div>
+            <div class="speciesAbilitiesSecondary">Competitive</div>
+            <div class="speciesAbilitiesHidden">Serene Grace</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">95</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">60</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">84</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">105</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">125</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">81</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">550</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(163, 62, 161, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">455</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAACDxJREFUeF7lmi18VEcUxR8uuKxrZGTqFgdVjdy61AGquBIXqgIKokocVJUqwDWOSFANrnFEIlO3ccTR3392z/bsZeZ97G7SzY8x2bw3b2buued+zJ25Vn3l7dpXLn91ZQDYGgw+vz06qs7Ozha65oUOdpFsAoCbP9+u9u5uZ0HgPfMfHB52kqlT54sUsDT26upqEmzz1q0KAN7/9rqCCfwvgZvAqVv3UgMgrf70605197sfJ0IDhJoA2X35rMiOKwnA9/2NzzsvnyXBX/71Z5KB3xLUGeEAdfUTS8kAhF9b+aa6/fvDCQAnH0+ThgUGgPzxy36F8BGcLo5yKQHA7gcb/QSABEWzaH9jfW3CaAHg4Oh3WxCWFoCdjfvVSXU0ASFnxwgrHyBm7N/dro4/nrYOlwsDANqyyHfHJwsZk/E2V7aqt+cHSfbB490p7TsgAHH4aC89wnQOT44vFwA5LNBfFACYASxQgw2n5/8UHTqC0+hzqQyQ8F1trymnEKNgQV0DGG9dtM93c9HVhWcwz9IkQJOgOcY4o5oAYHwH4dIAiMLLBiXwk/srVb8/Lf7xcVW9fTEo0howfFzGbAOAg3ApAGCfeF1sXg0b3KhG6Slt59nh5HcUPMcK2TjJTxJo7NgcgOPecUqDaf31tSlwxIILBwDhmZzWVjtR4M17I3CcDen/84MKABCeRojzpqSHZ2SF0Uny/EIBaOuY6uzemUE/sUPCS/tJmEd7KfzRPAFCeBIlZxwMQHha2ySIvq2cIIKzkAc/3EkTPH3zqjrfO5miehuaCxgHYX97MNG8C6++OFYyQAchap93+yfPJ5ki79uC0AhAFF4LEwjQWc4OYWZpkfo+BmYwPP04YQKARO07ALzvwoJaAJSNPTx6kgbt9XrVcDj8ggWzCK1vctTPjaeUl3du+4k141ygq/3XmoCEp9PK7saE/tEESsLHb0rf5bSvkCr71xzyA2yCaP3hKM5eOABdNZwTPpoO/0ftS3Cii8JiBMF9gYBIShp+6hwBigxw7XcVPjLGzSayQAAon1BYlUcn3OYAiIzgfxxfF9vXGFkfMC8AObPJmYB2ei44/bDlp6u3qle9/5xfSRGYBcID1iwbsSwAvhMj+5KtzcKGNt/EXB7haSUA3BeoUFKqFjfNnwVANXjqbmRf2FoJhK4AqX9uF4cW7wzXJ2vOAYDwrAfBiQazxv9aEwAACe4FRxxNckLjnB9hmgByL33eu576K5PT3j0KrsU9OBuVwbyh6ZgCKwNcmA/IAcDgJCBqmpRNERoROHWUcwDoVxKcd22Fl89om/nF9RV9gFdf5WS86gJVWaQA0C4tAqUFamL6M57svARYpH/UvJg1S/Ljc7YCAA0PPoy0AgugrgPAgOoj5yWw5NGlVQBQ9UggnK71J3Ff47ah/rza5/siAF6CdgCwP8IXdbdcHwGgZAYAPqytVNvrN5LjErMEgrShKjDg5mJ/yfZnpX6tEyQM5mrwbEoUs937JjqODy4Q9s5KL/VTQuMAaFzt+bUQdpee/fkuMCf8IrRfZAAvVPXRArVglalgge/VvYghoASADjJ1pkcoqwMAdvGNx/ic559X+40AOAvqAMg5MgElptRGh7H26SMTaGLAvM6v1gT0MpqCaC4/UJenzwuA1gAQhEt3qrxbhPZrGeAgeEgUCDqdLWk2ZyqlvtH+6afCBlHHE51FCt8KAPkD/roHr6N0clDjkrb7ijYAYP+0N09HKfHzF6vpr0eHWfP+3PyNJTH/SLc19KwJEC9q+jhe3eG5h0BR/f69s/8fALbF0kjO5iIgTazQe8bS2KrvKQQKAB8r5gZd63516yoyQJcU+JjNj5KfkvMRGPF9fK7Sujs1ZwAnSk575ndnG6PDvD7hCwBYsGKw7J6KjRKgHBCKFtE2/bkOU6KGcXARgIfPz5PSShlhLk2eNSpkAchdQ3EQWJyqOUqJ5bl9ISqpK5PL1QByPoCbIUSbmDCJ+nyzKBAmAOhGVhJunLPHqyfHey+mTmNkWyQ7NGlZz+U/lMWVjrIf39z97GeDUXgJ7tvntDHb6lf9rXsTE58lOkwAEF0Zzb205+5dTmvd8UTBeeeZnAMg0Px71QdLO0xnQ1cQpkxA9s/k5O1+Hpc7rS1515zA3jemsQ6Ajshl/wjkNcJYk0iM3fw0YYKzpU2R9AsfoFuXsMBPY0sANAkbQcrl8LMAEOsMkakACGObQCgCIFMQGxJtx9ldV6FF+VLIEgC8f/3+XcoRcgzgvYoy/M4VZniOw9b3OmxxIPz2SrEqzEBiAAURTILB4qbE64Q5betZU5gSCBEAvu9tT98TEAiwQIcnMlcXfsrsxrfIeObgZBmgfbgGUPLhAPi2NRZLZ7m36wAwbx0LxARFnpgoKRo17VZhxRQAsn8GjjE3Cq/47/1E8VJWWHKaPC8BIM3mCqmD639X356OkiZAZ41+RU5Uj0C4b8gyIHnW8V0cDQz14x28WQStAyG+i1UpBwHh1Q4/3Ui+QdGC3+5v4o019weNu8G44Wmy5S4CtumrW2P09UIqdcbYYIOX2ymtd44CbRZ1mX1yLMDGlTA5EJEJrDOCEK/0NjLgMoXNzVUCYK0/uhp7eDAqu6tFFkSH+ep8mKrWYsaVBED1hBwIkQXuKxwkmfLSA6BwqHsAcbeJUJhDZIGExScAAsCIDT7GUgPguQCLL210MJMIgIRscuJLCYDKZW13eQ4APqBLpFo6AHxbLq17TM/lCiXtt3HgSwcAi3baNmlzHu0z11IC0EZzAkra70p9zXFlAZDmFfaamFIC9UoDUOcb2rLoX9vWUN637vJpAAAAAElFTkSuQmCC">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Carnivine</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(163, 62, 161);">Poison</div>
+            <div class="typeWrapper" style="background-color: rgb(140, 140, 158);">Steel</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Levitate</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">94</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">100</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">92</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">55</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">77</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">36</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">454</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(207, 154, 9, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">458</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABTBJREFUeF7tWSt76kAQ3TokEolEIiMjI69EViKRSCSykp9QiUQiIyORyEpkHPc7CxMm29lHyKbJ17KmJexjzpkzjyxv6o+Ptz+OX70IeCngjzPQaQjsduMr+F0uL52e08aHnRhGwNNkqo75WV2+SrXelJ2c1QY81kY3CuABnI+vr7PK82GSEJUA8jzAEwlQwGyqfj8BAA+g0kizizoVczWbF1EJbyv/qCEQQgAZPCQionjEBV6HQ/aoAqdifv11BGw3o2uSjKzy58kWBPCJfZMRRQE2AhD7rkpjktFHiHRGgA+8LYERKagefHTVTLUmQPL+s+B5GUVFOZ0f5XS/P2k+YjdU0QmA0ctl87InJdLJ5FFX0Uxh79hdZXQCyPs8vl2Jjrwu9RBcASAAI3ZHGZUA8r6U9SUSfOVTyhODJsAW+6YaXGXT1knen7d2mLl/jA2vx8NY7+tLfiACyczWM7A9urBTLDxRCNjtbgQg+bnqfkDDFLU9D3lXiE4AkSHU8Eop/Lu7an4cONnwFAFIXqwxuXIFUDiYIDGHZ/q+gTcigAOmzI1sPJ6MtOwl0JwAVAca9zDpzeONk4sJmHuR6jTVaFvMEQGcLPbsKRWGxHfIHOvhrgaFZ+vzIVdnlTnPog5Oyv6x63oIaD7HRkCVsA6brVpu5npNOVkqeBvxW5alGo1GCgTQc5cCbLdFWNMnCRIB189VoZKsVLtNUYGHofR5miUaK8A3GS6iQAJG7Jcdn31WArCwyPOKAAKPv9t8GQyeyOKEuULmWTWkaVq7aDkej0G5xUoAwGPMk6SmBq4KgHOpgIMnT9B8Uw3PvukR8OPxWHN2mqb6s48IkaV1stNsAjwpgf9POSFfLVQxXtfChFtBBFC+kMKGq4FIoD184QDwJnBT8j4irElwnexEApAbaIAAGiACg4dHCAGaFEsVcYWDAN7EUgsJECGpwRonUIGkAE4AAH4a6X1xOldh4QoB01OSElwKMAhwxfs1WxVqOp/oI3fvk9pc50JUAzMEOAHIB/PLVv2b3m6E9+fyW0hISVDKzKYKXOEQ4P3aEdmq0GqQSPBlSl0SzYRoxnmZzfSj0eFkTYof24Oes1rLTZOvmeLh0MD7+sw2BGB9RQJCgpdGIiK0LzD7Ck4kvss2tzxiDgd4TPU58RsJPAyCFoMESooSAaLVDR+CAAxUGFeJbOp9nxmhBFRKoJxApdB3QMj3HDzNJxKQCyjP3pXAt2xiv2hK0w10MoEayFtNAPI1+WFU5RbbXmZlABHsHiFY/i4bmxJAe+mQoGGqgTwaQg7mULnF/2aVobxASpBunkPPkeY9SwBUUGs0XEZUnaPhdQ6cwEMZ9CJGe3IStFo8d49NCGlFAG+U+KFSfgCwkEEl11TGJEv1L0ODIeCeC6pukUvXBBoCngM3weO76fujRMb8eexpBRBI3jKHeJjPMUGbwPGZ5nACYqqgNQGmErjRBJbHugRamsf3wfrL7PZ6SyNWHohCAJHQRAF4a6R3DWkdb7/x/eAJuIOolUcpSXI1LD5ud40Y/MXLVERe7NVs8TFsBRherFrnEFVwIvg9BM/8Xcgfe0YLAQtQ3SvYpM6Aczuq/sLyMxsdFcX2KJsEeNnWNPnOl9b51gSY85gSdTPPyRUY2/WUtD722595xk8SgLNrJOCB7dbWctsb3d7oGwbo79tlpbRGuO3txNZONg0goaYGz/xObex085ZE/IhtP3JIIBG9THsR0AvtAzr0pYABOaMXU14K6IX2AR365xXwH7S/HG62SNMRAAAAAElFTkSuQmCC">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Mantyke</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(207, 154, 9);">Electric</div>
+            <div class="typeWrapper" style="background-color: rgb(163, 62, 161);">Poison</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Static</div>
+            <div class="speciesAbilitiesSecondary">Storm Drain</div>
+            <div class="speciesAbilitiesHidden">Hydration</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">45</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">20</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">55</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">70</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">85</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">70</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">345</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(101, 161, 158, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">522</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABXNJREFUeF7tmS2AozAQhbPuJBKJrKxEVq5EViJXIpErkciTyJXIlUgkshKJRNZx90KHm9IAId3dptfGXOEg5H3zZvKzL+LB28uD6xdPAE8HPDiBZwo8uAHMi2CUZh3gpVF41y4yGjzEx+FebDxXtG1r1IctzjMa/EMDIPFlexSHqhJNXd91Gqx2wByAe6wLqwH4vt/ln4UgByRhIOvAvabFE8CaasztT+9RHcCscI91YZUDpgAgDeIsF5vtVhZGSgtAsr0uXAXgbbeVRji2rRIAAUuyD2tnCmMAJJ6n0O+ikpfjtCjy/P8AwGcAAtAkn8KNXwcOgEAAdkEg7/+XACAMEAAAjSCoAIRbb5gqbds/aKfAuAAiymkUSvHcBVGa9ffqWsABVBTD91RgprCtHlwFIIvfRHs8ns2kBAAzAtUDzAqHupHTJKWDLbODEQBEFeI3m40UWVZ98UPbR+99SnjecA8AsqqW10gHcoMNu8kvAcAtEJ5SAJHmIPgagdxAteHMQj98oQ2AzwDxqz9Ev2kaEfiNiKJa7Pb+MPwgTuTCCCDgBg6Au+HW5wnaAKAMECCM7A/xaNgcoTntr1kIRIfXh1tvp1cBcBync133LPoQVf91QVUdLgDg/7gTsvdIrhjRVMtmE/dTMa2bVuRJtEoPvrfqBQDY7XZynBT9JQAcAn4jJTgI3ON7B10IJJym2rKsbgegjDJx9Ddn9udCio9SpFWfJmR/KpK4ByC6tYCE892nqfhVDkD0fzmOFOFvt2cO4GKRDp7rylsQPm5jEOQKHRC0GMOzWFPQu6b2NwaAF0nklHi6j5rxkfZ5j7aP+v2BH0bDPXIFh3HebztcFr/7dQbNJPiNdYmpC7RqAI8+HxiHgMijovv+v6mQu+Azd0RW9PVj3KZgKB8+3cQaAgsxFFlT8doOGAPAhgcbIQAg4aygdgQBKTAnfAnGHAC4Jtm/isPhoF0/VP1pOQAvAgL+RR0gAIj4xEwyQMADSAPTxtOHpxB+Y9V57WpSGwAJAAjkX+DJgjj5vut5HaWIKQDfq+QKkzeqIfxeURTGLlgNAB/O67YLPGfp3cEFpgDG0U9TT5R1v8ukhvXINWmwJMLUuXhPApgTTxFWRRUdzNmfA8BvUwjfBoCvGi+qPrP2lHiCg6gjDaaiT31bB4AKJy2dVfk8l9sUfQDC7zEovhS30gEEoKn+LWKm8knlApVovD8Wbr0DOAB36wh+PWX/Magp0XgOZxF56dpbAzBFkWgAiEPnopLzgsaLJglHftPxG4cT7w/yMvnY2A2ARAMG1QRVOszZG88TBBJO4q2sAXwW4MLnIHAAiDq1tm2xEhVZvw+6aDY64GIRBOHUplwA0QQBornt8X+AADdtvL6wQjhvJlPhd60DLgDk/SnxC22scKYwboCEvUZT1zQuuf8AiOStESFzgKomWAeAcjWIZMQG2KpFEiJflvIAZRyULk/7gxgAgDNOz3RwBK8L4++oE+b87rc6YArAeJk8Ix6jHQAoBEqnzXxnkcG3AJA7xpNdT1G7iOr44GQi+nIbTn0dvP5kKQ52Q4rYCGCIGIoUTmxGg5bXEAb7LkRv6Avi6SidAxilx+qArn5h0VMny1K0FIOmLnTsKwFMiF9yh8ZQV/5dQKfHJC/6ys3+OswixrsYFzdVMLokL1SRP6sNU4B0xvulDoB4fsKL09oJ8VrR4/0p+pp1h4541ZSj+57yuRUAlnJb9k9uUtUQzA4z7tDW8aUO0Bj0kP88t3Fzzi0qNQvuuB0AzS8P0TMRvwL04nC+3AGLXzxZW7dW6PR3zTM3A8AHPVUorxGm++5NAOgO7ieeewL4Cco2f+PpAJuj8xNje3gH/AHXoEx9097E5QAAAABJRU5ErkJggg==">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Blitzle</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(101, 161, 158);">Ice</div>
+            <div class="typeWrapper" style="background-color: rgb(207, 154, 9);">Electric</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Lightning Rod</div>
+            <div class="speciesAbilitiesSecondary">Illuminate</div>
+            <div class="speciesAbilitiesHidden">Ice Body</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">45</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">45</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">32</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">65</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">32</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">76</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">295</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(101, 161, 158, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">523</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAACDVJREFUeF7tWy2Xo0oQ7XUjkZGRIyMjkZHIJ/kJyMjISORK5JPIkcjIyJHIkchxeec2XKYoGmg+5pzM7muzs9A0VbdvfTb5ZZ50JGn2SJP4lxTvGIaPW1F0rq0Vf9PF1grD56H8Of7HXLN/DUGA8lFyMXl6MVuC8GMACILgkd1LEx/2pqqqzeTebKGtdh/rgAFhFJkizy0DsPt5/mZu1eefDwB2+r38sMoSAHntj2eACwD6hL+GAbB1DDAguySGjKCZbcmCp/IBcvff73fzUZb/AzDFAIAGZiyNDE/HANIfDLjGUY/+UBYmgPESBPbfz6r6ewCA8lD843i2ygdv58XK4/mnYYC2fwjnYoB1gKerMVFodufTqt3/cQDQLKrft1b518PBpsYIlYwSuoYYS9KeigG0f9o4wx8Vh7L4mwPzwZJjFBvUDkvyhKcDAMpTUQLAa3Inz1luwUBxxDS5ZciMWuGpAICCUB4DygCA1/2uvSYBwH2AwGeWKP9UPmC33z/2+zq8EQAJiLbjIivM7hC0INBpzs0HnoIBVD46lOZ1X5lrXrOAA8qGcdi79pYHJr4YCwJ8AZRH5YiJvj2DpwEgiYxJkrKnKKidXYx5L+ukJ7/vzTm6m1NUGQ0AzAf+AGbjy4SnAAC75tpl+oGgerHKkhmYiwFWuJwh2PBjGAD6l0XZUZA+APH+47Q3YXg0QZP2cvdpEgSAznNupbiIAbSzKVubskdkfxBc776tBO+VqYJPE0Wnju0DAOkjCAAnze0ZLgKAaSteSgFdlOM8zNH3cY/FDOwftj13EAyCAOqTCVObw3ctAgAPs0l5DF7sWi4g5BwNggQA1ZwU3AcIKA/HaJ2iIynyNYXFALhAcAFBEBinQW9memAAlCcTmAdUVWUxQEMEQ4MD5e16TbgkAHF4NFlxa0OiD5CbAMAXkQ0QArZIZwYBra03LS7m8MzrZV1PUMYUl8rz3dIMfEMgnl0FAFkQX1LbumJq6oM8AbnlWafAwRoAj0zRa3H3NQjSDHxD4GoAZDSgoDi90YNUltd3Iu0dAkw7NTnPZQZz4j/XmsUArTCyLgyUobJM5eJUHKWqHjj2whgCgg1Rl3Ok8nSCWIcMOEfhLJ28J8vQB4Vp367d04pzvpxLf0EgXOvArIYcoMsPgH3fBgDtXdo5HR3ukfpQnjvuUlwrSiB4XT6DUIY6oPX2TQ2AuWm67+UO3w7AEAhwOjQPNieokDSNubGeAGAtFD9y6OqQjJwTAfCMtwnw5ei9wXNLZ8f0EyDo1DQ5fJWx6b0uYjAkGC7/gTmMBmCBBMCl/LcDwB2WisPrcgB5+Akb88vI0paFC+ZQaOT9oK8Js/ZZguSiNesCuYbLX+AaEiiY4BwWeDGAHydYx6OUpjBUXvoF3NPVG0tZlxJyZ13l8ZDiVB7/rgZAV3Ba+SF0Wdm5hJTKEADLAnwLkNTprtxhdIZ4nayQwGkTAEtkOJ0DQo8B/BiBxQ0pz5bT0C4AAAjBun1onmYE5ulWmGYJQJBAacDYHyQIqwFgqGOnVfbcpgCozaTs9fX4nM7g9Hpy93mP3aAx80GDdAkLnAxwNRkgzFiOTQZAeQuCamxSGe62zOIkCLLdhetD/9fAsT84F4QWABnHUc3JAUph4TEz0ACMgTDGgqEOsIwQmglQHgMdYgnAPb/b1vlYVLAAyI+QagpHbW5NIADCxJnbA/bPDi7a2xxkA8KU7O25WOICAM9BGen8aCo0D4DqAgAyjIHQYwAekEdNEpCJfpsF4BwHJivqHaE5EAgtIK5LpykBkgzkdTZKcE/ObZxeJ7kCYBiSHc1zHbPvfYkplYfC/DgRB5DIAEf8wOMYfmV9FDYOK3vY4VJe2zEUGUqXXaHO4fXtochnE1llK53vwjrSJAYB4KkrbR9ND/w9xIKxPAAvZ7o71gfwBYA+CesOhDwLBMDUYdkLAJ6syO9v+DfP49XuPfL06+BC7yz+fyuKnjAaDB8AqDwYNvVpjGtTJgFohPVKkamoTYPjwHmuxzkAQNMbysgeIHdNA8hER163n8mU5ZScnY1x1QpTC7g2U1+zhxsYtHdZvyPen9PS7r7ecczHPVWVPmjD8PpQnjF+TpHTCGkBwDhndeqtTWY1AIz/EgCJUJTYcIj3PK5JLQSiBJS3gvUBsGcOOBnCoCPT1HXtDD+TacL1I0kz67iZd8ARaxBXATCmfKN4b3chFMauvDiV586BBdKL+wIgPrM3H9Wn/eQ+NImNQi4GbQaAoBc3x7W23RUp5EhTprVf3zpf/s7Asqv5zQF6i0PmsxkAnhWYBQCfwqMXKH8Q4aB0m1fMAYCf2ct3fAsAkv4QvonzTkCvedF+wgZhTnFiQeDn8AOetgMAnOiUGYAB97fcJL/rwxa21idrAR9Xr+fQ4bxl6WQXBgDg3I7nBxAMAFDIkRqjk11OAPAIT3WLrgAIaWYg29jGaAc1Cwf1u57JtTQIPCCdKLKsyWDwCG1kN1sACEKj0KiZL/YB/FmLhy23wBIEfPFxzesO8ZQZSKc5ZsuMHmSBAGE7AKQto1ZAfeBhyx0A5M7bcLjfWxMaMIM5TpPvaf2NT9t/FgNW2HIHhHMUtgxg+JQASKAxl5Fjgi2zTHgsVo8utNCWXWvKner4kC2A9kVjFgO46AJb9pWn5y8YOTyd5uz3LAZgpi3PFgwPEOhd8GLysq4N+JXJgsLIKcMiACjclC0v0lo8BABcQOO9Pg7O5/2LAWDYcbxk7ZqdJQGC7AC5nKaPokNzNhV2jSBjzyLn0L2ErVjwYwAAQGkSa5xWy/8fY1tgqu9RsA0AAAAASUVORK5CYII=">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Zebstrika</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(101, 161, 158);">Ice</div>
+            <div class="typeWrapper" style="background-color: rgb(207, 154, 9);">Electric</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Lightning Rod</div>
+            <div class="speciesAbilitiesSecondary">Illuminate</div>
+            <div class="speciesAbilitiesHidden">Ice Body</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">75</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">70</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">63</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">110</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">63</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">116</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">497</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(128, 143, 19, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">692</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABRhJREFUeF7tmCF420gQhTcsxxxmsRr6ihJWH4qPtazHksLCsrSo9Ip6YQfvjiWssGV1UV0Wo9bQZjKLWMvc7630lPFmVxpZivOdrSW2pNVq3r9vZlfaMzve9nZcv2kBtA7YcQJtCuy4Adoi2KZAmwI7TqBNgR03QLsK3GsKnJx1lnDg5XkSjEPTp46L7w0AhL3+a2Ae7n1A/N44NH3qiA8+uO6gZfdrhGn6lD1Hc33jDtAI0/TRiNP02SgACnvzcmxj8+X+JsVvNAVYzIryXgNIM6tV+mzMAWUzqwFURZi270YAaGa2DJBWUNV+GwUQWvI0gKoK0/a/cwCamdX00Qqq2u/eAUjxD7qdlfjni/AOsarQUP97AfCgm26B0QanxnBlODl+lMcZJ4mZxbE9vksQdwrAtTaFD/r9VOjR1Ip/Eo1NL4qs4PxahgIgpvG1PVosFo3H2/iA0mquvV1xl5++mK/LxxYAr42n01sQXo8ODDZPo4v9xiHUAtDtdnMrQ3gURWYymeRjEoAUmAMSs++CCUF4dpSmhHxG3VqwFoAVK2dCEAgCjOPY7JsfK/ntA+CbfYph/rtg4ITfo6tGXVAZAMS7gTGXKQBBDvs944ocDodmNBrdOu+bRbgAdSHq3KwMAIBWAIGOVOtSd8SDveIZvXAC8vXyPDGo6jZ/h9cG4tG0AHwucABgOMZvhZ+cpbDw7NA3Bhe2GkCh+Kyi4wdVHQ27PgBgPksAEMK0kMtdWS0gAI4Nh3W7XTM8TVOOrXEAFC9FeIuPcAGDZD95L0TD2q7NZfHDfzQJhauBdFeWDnb2M+H57LNIFy2fpQ44Puxbe50+fZprho1DAOgCCYDimQL49VV6iqZwzDA3RxbaMF0FIPT4sG/+vurZY6QY3QCxFP4xPsrdGEqJUgBFsz+epQENelHOA+fez341vx2MzePDdMPjc44LIJ/xU2PMVXofREEoGwCM36V53jv4xQJByr04mtn/2T7BuoGpyHq0FoCivKdQBPOk9y2HgPODPxLz4V9TCMDZ6toNkZ3Nl2MzvjB2Bfg0ma4AwDEaodAR8SjK3QEIrAluSvhcW+gALQDM9qFwwWQWF4pnCryPbwqmBABBGCNJUqujza6/W2ehIb1wno6AGwjHEVnq8LUBYAYRJJoUj2MXQKhmYAzmMWcf4jkGx5Xi2c8WwrOOTYn5fG7+efvWXFz+RxClwgkq2DE0+wi6qEnxhR2zi6HxME4IAF3A8SH++atXuVsyN6ggqAHIQKXd5Ds88lYLoAgk7U+BSA9UejYsh0wD55V5idRoHACDFcIlOLtM4sEIJvlxU/x8DihzEMdA/mNm/zx/490So/DC+o7g5gEgYJ9w+RXXLUxyBfAJltVbQmJNSZL8S9ASDrv17oF9xCz2AsjGU9kffUtTAGuxrx9fdSnAbnzE+ouVAa2zny5pbPajR/YVCOfYD/+FcNs9VIdETJVn3HVlIYD5ovSlQn4P2JNQIIyCOp2bT2AI4PN1uvwRgCuc1yQAvkly/5B9Jqv89qcG4MtfzTmIhUAJQN7H6ziHTQ/SpQyA+yapfdPTxKvOFc1g7MMZd4VJ8bR+SHw21hLvAnL2q1R4Tcx3AiD0YJkKJcI5xAqAUD3SCA312SiANQK1AMRK1Hi8jQ+4hsiyW2oXuqIH/B8AlAGqdb0FUAvfFtzcOmALJrGWhNYBtfBtwc2tA7ZgEmtJaB1QC98W3Nw6YAsmsZaEnXfATx6vQG5Ldd93AAAAAElFTkSuQmCC">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Clauncher</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(128, 143, 19);">Bug</div>
+            <div class="typeWrapper" style="background-color: rgb(112, 87, 70);">Dark</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Mega Launcher</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">50</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">38</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">62</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">58</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">63</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">59</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">330</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(128, 143, 19, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">693</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,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">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Clawitzer</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(128, 143, 19);">Bug</div>
+            <div class="typeWrapper" style="background-color: rgb(112, 87, 70);">Dark</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Mega Launcher</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">81</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">63</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">83</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">110</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">79</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">97</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">513</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(182, 161, 54, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">714</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABRFJREFUeF7tmi9Y20AYxg9XWRyVlZWVqwNZCW4PDgkOOSRzwzE3HM8cdVRSV9wqKys7RyWue96UN/vy9XKXpJe0PM2ZhSR3uff3/bnvrjswe94O9ly/qQHUHrDnBOoQ2HMHqJNgHQJ1COw5gVJCoPvleKm5Tl5HpXxrU/sFnxTEX19er83r7udddG/XQAQFkCaeNNIg2DyGfcoGFgxAs9lctjtdY7M+xED8Se/EvIxfYi+g8LQ+7FcmhMoBQNTDw50BLABBA5RtQQgKoN8/NdPZbE0MrU+3BoCLi2SecEFA/7K8YKcBMGeUmQ8qB2CzPgXCC2RjiDBMyvCC4AAwWRkGtCLF+ABI0fP5LOYxHA7MYrEINl8OHHRArATIA4SAfzvtdvw3xKUBgPXxXIrmJMsSj/FLA0AIBMC/Z9OJNQGmiUe/TwMAk5VewMnrspArAGN+W+KDe4AGAMvd3z9q/ebq6jy6J8NFekoVrl9KDuCg8AJc28RLGgBhgwBwaGUkPW2NoDlAAvCJ57v0BjmxKoSX5gG+DZEUiiXybbEwvW43vo0llOs9xkJoyHtr8bThjaAegAlzw4N5uTZGeP72+jH7zn8IFCvH0puoDTUnugcHgNHlJodfIwxY/bqxqvhuRqvN0KI5SeQCeIC0fpleEByAzOat1qoIQuOS15i2zY/nCzO76TkBoE8CQqMXjfN79D3onIMOxgnbXBQwAMEFYDyZmMNmc+28oPMh3uf6ReBUBgCxjYS3mM9Mx6zKZbSpGZhmqx0lQlnxyRygAfTNrZPF0NwknrvAVAKAlkV44BoQ2Cie97EE+sQ3zsZOAO9Pq3DRjWAkkNwAeIyVlph0KRxZeTaLN0XWiX0UPo1Gw7TanfgVl+ufnvV9EbH2XIIBDIAoBIDLkm150gCk9fWMaHUIR4N4julze1ozL4jB0zCRTHMDkNmZ1tUHFXpbrOt8GQYIASQ+NJt4xrt2e21N9NcwKFaC1/mgMAAOmlakEALretT8vEZfHIrKMXCNVUJaHuJ98Y5+hAGvAARtZVesFALw9fhb/MvP9H0cWw4fkt7ATRHE4hxACpcHJYnrjyUvq3gpjiDOR9lDOzMAKVoT1RD4nFn/rH9qPenBe8wRuC5ifX4LVi+tDnCJ5wQAgXHMe0/DgXGJ53uAgNY7WmX2PNbP4+62UHB6gBSuiw9mYd7n3wSBj6Hw8QFguQxYeQBsKpwwUgFQvC8LM0nJRCRJj/8OIwho8sBTCo+s3+1G4XB79Meb+Iq6e2YPgPg04RgEE0hzU4CIS9HWPBHj+pxfnwVgbKwUv26frYk7lNXl4GseQPFpy49LPAcmhOHkZ7TcQSjXevlxCYAegWNzDaAM4dYQ8In3WV8vSVeTw1QAzA/sw+0ylksJIKS7O0MgpHh8SHsBhMnix+YVeKffvcxdzFjjJePNKASyiJfW19tNfkuXojYIcl4SCO4TAK6LrOkZNSdeiwA8Hi+XiHlb7YznFEZBaZOTy6bsg1BgKSxPfFkpckawflXCEzmAE3cJgyAAyFpm6uKJ9QGsrCHY4BSxZpE+uUvhohaSO0T9Wx/PGDScIoLy9skMIO/A+n3+HyIepEixLjibftfXv1IAdHXt8i44PgGbPq8MACaqzwiYC+T9qvNBpQAIAf/q3//S4GxqYV//ygG4JsRl8VP/OOojvmvPd8oDtgGnBrAN6rv0zdoDdska25hL7QHboL5L39x7D/gHO5mYbtAa7okAAAAASUVORK5CYII=">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Noibat</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(182, 161, 54);">Rock</div>
+            <div class="typeWrapper" style="background-color: rgb(115, 87, 151);">Ghost</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Cursed Body</div>
+            <div class="speciesAbilitiesSecondary">Sturdy</div>
+            <div class="speciesAbilitiesHidden">Levitate</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">40</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">45</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">35</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">30</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">40</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">55</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">245</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(182, 161, 54, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">715</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,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">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Noivern</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(182, 161, 54);">Rock</div>
+            <div class="typeWrapper" style="background-color: rgb(115, 87, 151);">Ghost</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Cursed Body</div>
+            <div class="speciesAbilitiesSecondary">Sturdy</div>
+            <div class="speciesAbilitiesHidden">Levitate</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">85</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">102</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">80</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">70</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">80</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">123</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">540</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(115, 87, 151, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">746</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAA79JREFUeF7tmC9U21AUxi8uc6mjjsjgMkcdlZUw1U4N1CopakwN1MCtU2NqrdqQlcUVRxyVxbWOuMZ153ucm92G/k1Dkp28p9LXpO9+v/vdm/e6RTkfWznXTxqAdkDOCegSyLkBdBPUJaBLIOcEdAnk3AD6LaBLQJdAzgnoEsi5AfRbQJeALoGcE3i1Ethx9ifM9tG9fbV1Ns1frIGZpqlEm5ZDjb0TGj56Kr7W8JokBMMwAjimaap7RqNRrLGsCia2RSG+XvqmxEJ84+e7IIaT8g81XxgWqe/dUMX68iK+zuAzAUbSIGIDwJZn8VIkxEkIUr1VcIKPgyeXhtRNFEIsACAewjEe3Edq9upUOm9R76xGh7uXal5CeOtXpkTjgwTRHV6Q53mxxLasFDZexNmuTo4OqsE6DGAwGFCt1SPDKZN33FDWhwu4J0gImEP2eSTpgo0AhMWHHYDPAOC7XXIvjunyw2/VGNEPwgBYfNK9IDKAWeIZQKNVoaMHQwlv1UrKCQyA7xl5Y7o3OlQxDgnX4bEpCJTlKq/f2AFICJZlKV31UpN2nZ0pjSgVnsN1x/8zEwZA+L4fxGnb9oRMi8b+eOrVKn+ce9Ll3dXce/j+SADmZV8GAVE8wuLD2UagsomGYQCCgmlaVHc+Bo83b09pbGy/EGnvVSa4L3EA1zdt1c3L+/bC5stwGIwEMAsGfkwCks7BddP9Tv27jkomZ597zbIyiOQALAQXsEr5FlgFAttfguBrZJ/FhmFALO8usXZx53kXiQEIKAs8yyW1TDyeiwwAD2P3d179RRCNARDYAWITZFvFqQA5UFn782wSBlMo/BOKNwiPWvFIXQKE/N1Vsx8JADLvjtoBOIbAmbnqHgcAOFCZqXkAZM8Ig2n3z9QUzhgyq3L3ie/nnT0W1ePaDsBBBhm+6Z+qZw/srxPs3HjgPNC576heABfI8fT0fDiSA+Kq9vnMeZ5ctiuUJ088s4r1+bfXBoAHGQKusYMLO8IyKi8AQDx39zCAWRlaJnpRVtf5LhIAhmCbB1PieWEGJJ2B7wBmzyrNzHZSgsOLRwawiDL6gu/7qhdsm28INi8XP6kDkWEY6lHYXu4Pztrv1XzSIGIHAPFc03eDXnDKC+/o+M8TvEV4AMJ/DwBiWBzbHidBuZ2V7pH3Ji0eccTugHUaUBbu1QCykIU0Y9AOSJN+FtbWDshCFtKMQTsgTfpZWFs7IAtZSDMG7YA06Wdhbe2ALGQhzRi0A9Kkn4W1tQOykIU0Y9AOSJN+Ftb+C9kt71ArtvgUAAAAAElFTkSuQmCC">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Wishiwashi</div>
+            <div class="speciesNameForm">Solo</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(115, 87, 151);">Ghost</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Schooling</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">60</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">20</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">20</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">25</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">15</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">35</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">175</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(115, 87, 151, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">746</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,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">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Wishiwashi</div>
+            <div class="speciesNameForm">School</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(115, 87, 151);">Ghost</div>
+            <div class="typeWrapper" style="background-color: rgb(111, 53, 252);">Dragon</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Schooling</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">60</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">140</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">130</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">140</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">135</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">25</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">630</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(99, 144, 240, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">781</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,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">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Dhelmise</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(99, 144, 240);">Water</div>
+            <div class="typeWrapper" style="background-color: rgb(98, 161, 61);">Grass</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Sap Sipper</div>
+            <div class="speciesAbilitiesSecondary">Gooey</div>
+            <div class="speciesAbilitiesHidden">Tinted Lens</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">90</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">81</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">105</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">106</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">95</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">40</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">517</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(177, 149, 79, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">850</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAA39JREFUeF7tliF4GkEQhSeuEhxI5EkSRVyQyOBiU1fZuhAV4oJLXVKJI664EAeqRZ5MHbicK45+b+m7Lte7dpeWy33fzSpud+523z9vZjmQko+DkusXBaAOKDkBLYGSG0CboJaAlkDJCWgJlNwAegtoCWgJlJyAlkDJDaC3gJaAlkDJCWgJlNwAegtoCWgJ/GcCp0GwTvvkZLEw01EUFcp13oehwIcwjN/lHERenJ3K9fDBiMXv5Jg9zQRxRQHhBQBCG7WKjOfPEkbLAwpvnbS2dEIk4p6XkSTXGAhIRYCwM4BafSOlc9KJxUN4uHiRTrNh5gCKcQyy43eFcBLU4jJ7CpexBsyvvq9k9s29zHYCADHILsRSYFWqJuscWH93FsTPX8NNDwAUjMNaQ2pBYMrFxwkQ2Ts7FnwP30oCwFrvfuIMwQsADs4ysIXaWSeYu9ulHJ+K3LzdLg++h8MDAsb9PHSGQAD94XRLPL6DNbjv03guYbRy0uYUxENjg8mXpXSPNpm1M05XvMiL9C824jGyANANgOAKwCX7cMbeAbSPagIQtrgPdzPzjMxiLSme1md/INTZPDIgXSAkAcT1JSJZZWHHpP32ckClUll/vo1kOm4JBdsf5Zy9liWc8+wdrgC4HwRzoBxyAfD4+Ljudrsyet82Tehv43ocmpBm/c1vobYTXF1AB6TtCwgY88XKuZ8g3ssBANBut6VarZrNLjq/ujyeD8/7Yq9DeNLyycMfBnXB4W0ntOs/79gUpfbNkgaiO5jsD8DV1dW61+uZffv9vgwGg/gMo9HIiOfaZPjRiIcLkqD4EsoA1sWhKZr94Ly5DRe3C/9c4f00EHAl9vO5Vr0cgI0JAQAuLy/N+3QGxWMe/YJCswCwRLjOUsB7FMzfdrYJghDsctw7AAqeTqdbAPAMR6TRB4wsCLYb4BhCsDPeam7+YMExjOF7XMOzr3jvHpBWcy5zWQB4E+AbyaaYJpAAbBic20V8bgCwEUvCvhH+1CApjH0CjRLxNjR0fNxIvo3PTpp3D3DJeFoMXeDSFCmWtqZIftcWTbA+je/VAGBjHJSHTvYFwEmKteMp8l9FvwqALFdkOWrXjPo6NLcS8D1YXvEKIC/SRd1HHVDUzOR1LnVAXqSLuo86oKiZyetc6oC8SBd1H3VAUTOT17nUAXmRLuo+6oCiZiavc/0AeaMfX5tULFUAAAAASUVORK5CYII=">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Sizzlipede</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(177, 149, 79);">Ground</div>
+            <div class="typeWrapper" style="background-color: rgb(128, 143, 19);">Bug</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Shed Skin</div>
+            <div class="speciesAbilitiesSecondary">White Smoke</div>
+            <div class="speciesAbilitiesHidden">Mold Breaker</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">50</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">65</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">45</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">50</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">50</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">45</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">305</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(177, 149, 79, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">851</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,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">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Centiskorch</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(177, 149, 79);">Ground</div>
+            <div class="typeWrapper" style="background-color: rgb(128, 143, 19);">Bug</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Shed Skin</div>
+            <div class="speciesAbilitiesSecondary">White Smoke</div>
+            <div class="speciesAbilitiesHidden">Mold Breaker</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">100</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">115</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">65</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">65</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">90</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">90</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">525</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(177, 149, 79, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">851</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,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">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Centiskorch</div>
+            <div class="speciesNameForm">Mega</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(177, 149, 79);">Ground</div>
+            <div class="typeWrapper" style="background-color: rgb(128, 143, 19);">Bug</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Arena Trap</div>
+            <div class="speciesAbilitiesSecondary">Sand Force</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">100</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">150</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">80</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">75</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">100</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">120</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">625</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(128, 143, 19, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">919</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABPFJREFUeF7tmq1z20AQxS/MYS6TiqoyQ0OFJdBhCfMUlSasU5TCBnXCmv+gY1azGqaoMeoYmlVFtVnNEubOu/ip58vpw9LKI491pKmis+/99u3eaZUDtefjYM/1qwZA44A9J9CkwJ4boCmCTQo0KbDnBJoU2HMDNLtAkwJVpkDvVWfJzx/9nuaCXWROGQ25FrXpF1CEF3hKBb6a301UdKjUbDZTi8XC+Z2dTmcZnXVV/36We86m63LdLw4AQoIHpbyTroqimZrP58rzPP3dh9Fc3S+eQ6B4LjAEhNVImiMhHp9RCYAwfBI/PvJVOzzSa12M7xWE2YJaV/04TXAf78fPL97faniAOJ3mS6FNwYgCYPQfAk+L71x9XlvP7G6gQbRuR3EqYA6ADfz/4js3X/W86btzDQGOcjlnU7GVp4AJAIvHgBgbRvTytQagxSM9Al87BnMonovltclkklg/yoAQdwDz3V6UCaF9eq4gyPd9xXRhxHcaQLvdXna73TXtjGAagPF4onN95x1gA1h8W+Xy9WVcD1AHkNcY2BbPznqKAFDs/n66iNOAaWTXjTKWt+eKpgAAwNaIJsWbX2gWQdxnA8C9hMB5EM/xeD0QXW9l2yAA0PIQ7Z/0FcVjK2T+uwCYwPAZ5tgJAK46YNsOUWYK2IXQVTx3ygFYLFOBC3ftDCYE1AFsg66B+3BExgiGE/EDkXhOUYQNAddNEGYa2DuHyzFMK+k0qAwAnYB/YfO0kVUL+DxRxWGoUgAQjdNe1rYFAISUdJAChCqOxJUBoHB91LVGtNru1rbIDAhVuaASAPEZH4Ur6GidUTR1gsBFiDNdYNcL3gN3SKeBOIC3x8dLin4WeQeEsdEvYGFM2j0IKqmpkpVqrt+LA0D0++Gxcy1pLuAEG4LphtoDSBOflAa4broA/0+DUOsUyBv9weqIq/t/DgCMtL2FpvUUi9gfc0RTIAmAaX2IR9sLzwfT60u9bvYAA6tozlc9RIqTzH1+phgAs6trF0EbAFpl6Ao9XvQ0DDRBEHW7dmCe+Vnju+8qb3s9ryNEAegTndUQMRfC6D+++RBfDv78UugQoVkanqwXTwCAC3QhRItdKTUUbo2JAmj9/KG6p0+9QNcAAEQf1kdjFOLxMx5ycGBCtBFlgGD0b4YDDRUgAIFpIZUOogDiFxsp/mMBBAj0CHqwvyEO4gGBEWfUAQG7hfRxWAwAFmqeALNykCAYfVrdBYAQ+LwguRuIAcAJEPmZVgNcUDDnqO3H9sYrNESZw8x9ttskX5SIAUD0s4qgDYDAGH2IR5t8OBzFIO2tkL0DKQiiABA5LcLz1Gj1YgQ5nhR5+zrbYwBgDhY8s91WKwCIPp/jcVRtffmoDzoYLHSmIESekTSPtnxNhjZ5Up4TArZNwC77zrC0A1j48IwPMRyAgAEHYHvDtgbhGC7xcRENn/p/cIFrq5N2gTgA0662xfk+0HSLKZIOyAsAL05wqCpzJigFwHy5mRQxGwIiyGuuhRMCusRJT35Zn5G1BZu/Lw9g9bcAUo+peQBsIjDr3sIAsFAcfVHkytrQXKRdUMvYO0s8fl8YgKQNdxJAHrpF7wFc7CKSzkpaS2EHFBWXZx4A4EmRf0mSZ07Re2oJAGIAoer8L1UDihKv27zaOmBboBoA2yJd1+9pHFDXyGxrXY0DtkW6rt/zDyKvdG7KFT6SAAAAAElFTkSuQmCC">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Nymble</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(128, 143, 19);">Bug</div>
+            <div class="typeWrapper" style="background-color: rgb(111, 53, 252);">Dragon</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Swarm</div>
+            <div class="speciesAbilitiesSecondary">Tinted Lens</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">33</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">46</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">40</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">21</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">25</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">45</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">210</div>
+        </td>
+    </tr>
+    <tr class="speciesRow" style="background-image: linear-gradient(to right, rgba(128, 143, 19, 0.4), rgba(63, 40, 40, 0.4));">
+        <td class="speciesDexIDWrapper">920</td>
+        <td class="speciesSpriteWrapper">
+            <img class="speciesSprite"
+                 src="data:image/png;base64,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">
+        </td>
+        <td class="speciesNameWrapper">
+            <div class="speciesNameRegion">Seviian</div>
+            <div class="speciesNameName">Lokix</div>
+        </td>
+        <td class="speciesTypesWrapper">
+            <div class="typeWrapper" style="background-color: rgb(128, 143, 19);">Bug</div>
+            <div class="typeWrapper" style="background-color: rgb(111, 53, 252);">Dragon</div>
+        </td>
+        <td class="speciesAbilitiesWrapper">
+            <div class="speciesAbilitiesPrimary">Swarm</div>
+            <div class="speciesAbilitiesSecondary">Tinted Lens</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">HP</div>
+            <div class="speciesStatValue">71</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Atk</div>
+            <div class="speciesStatValue">102</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Def</div>
+            <div class="speciesStatValue">78</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpA</div>
+            <div class="speciesStatValue">52</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">SpD</div>
+            <div class="speciesStatValue">55</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">Spe</div>
+            <div class="speciesStatValue">92</div>
+        </td>
+        <td class="speciesStatWrapper">
+            <div class="speciesStatLabel">BST</div>
+            <div class="speciesStatValue">450</div>
+        </td>
+    </tr>
+</tbody>

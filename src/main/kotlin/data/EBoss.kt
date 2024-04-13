@@ -1,0 +1,31 @@
+package data
+
+enum class EBoss(
+    val niceName: String,
+) {
+    BROCK_1("Brock"),
+    BUGSY("Bugsy"),
+    MISTY_1("Misty"),
+    SURGE_1("Surge"),
+    WHITNEY("Whitney"),
+    ERIKA_1("Erika"),
+    GIOVANNI_1("Giovanni 1"),
+    MORTY("Morty"),
+    GIOVANNI_2("Giovanni 2"),
+    SABRINA("Sabrina"),
+    CHUCK("Chuck"),
+    BROCK_2("Brock 2"),
+    MISTY_2("Misty 2"),
+    SURGE_2("Surge 2"),
+    ERIKA_2("Erika 2"),
+    KOGA("Koga"),
+    PRYCE("Pryce"),
+    BLAINE("Blaine"),
+    JASMINE("Jasmine"),
+    ADMINS("Admins"),
+    GIOVANNI_3("Giovanni 3"),
+    CLAIR("Clair"),
+    RIVAL("Rival"),
+    BRENDAN("Brendan"),
+    ELITE_FOUR("Elite Four"),
+}

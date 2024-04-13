@@ -1,0 +1,460 @@
+{
+  "moves": [
+    {
+      "name": "MOVE_CALMMIND",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_HAIL",
+      "phase": "ELITE_FOUR"
+    },
+    {
+      "name": "MOVE_BULLETSEED",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_ROAR",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_DRAGONCLAW",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_FOCUSPUNCH",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_FLIPTURN",
+      "phase": "SURGE"
+    },
+    {
+      "name": "MOVE_HIDDENPOWER",
+      "phase": "GIOVANNI_2"
+    },
+    {
+      "name": "MOVE_ROCKPOLISH",
+      "phase": "SURGE"
+    },
+    {
+      "name": "MOVE_EARTHQUAKE",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_BRICKBREAK",
+      "phase": "SURGE"
+    },
+    {
+      "name": "MOVE_DRAGONDANCE",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_THUNDER",
+      "phase": "BLAINE"
+    },
+    {
+      "name": "MOVE_RAINDANCE",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_SOLARBLADE",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_PSYCHIC",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_ROOST",
+      "phase": "BROCK"
+    },
+    {
+      "name": "MOVE_PROTECT",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_TAUNT",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_DIG",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_RISINGVOLTAGE",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_LOWKICK",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_DEFOG",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_REST",
+      "phase": "SURGE"
+    },
+    {
+      "name": "MOVE_FOCUSBLAST",
+      "phase": "BLAINE"
+    },
+    {
+      "name": "MOVE_THUNDERBOLT",
+      "phase": "GIOVANNI_1"
+    },
+    {
+      "name": "MOVE_SANDSTORM",
+      "phase": "ELITE_FOUR"
+    },
+    {
+      "name": "MOVE_SUBSTITUTE",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_BLIZZARD",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_SCALD",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_RETURN",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_SLUDGEBOMB",
+      "phase": "BLAINE"
+    },
+    {
+      "name": "MOVE_DRAGONPULSE",
+      "phase": "CLAIR"
+    },
+    {
+      "name": "MOVE_DRAININGKISS",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_XSCISSOR",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_VOLTSWITCH",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_STEELWING",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_AERIALACE",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_OVERHEAT",
+      "phase": "ELITE_FOUR"
+    },
+    {
+      "name": "MOVE_DRAGONTAIL",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_WILDCHARGE",
+      "phase": "BLAINE"
+    },
+    {
+      "name": "MOVE_FACADE",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_SILVERWIND",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_FIREBLAST",
+      "phase": "GIOVANNI_3"
+    },
+    {
+      "name": "MOVE_STONEEDGE",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_POISONJAB",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_SHADOWCLAW",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_LIGHTSCREEN",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_ROCKSLIDE",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_DRAINPUNCH",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_DUALWINGBEAT",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_PLUCK",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_WILLOWISP",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_STEALTHROCK",
+      "phase": "BLAINE"
+    },
+    {
+      "name": "MOVE_WORKUP",
+      "phase": "SURGE"
+    },
+    {
+      "name": "MOVE_TRIPLEAXEL",
+      "phase": "BLAINE"
+    },
+    {
+      "name": "MOVE_FUTURESIGHT",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_GRASSKNOT",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_FLASHCANNON",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_EXPLOSION",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_DARKPULSE",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_UTURN",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_HYPERVOICE",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_ICEBEAM",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_GIGADRAIN",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_SHADOWBALL",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_VENOSHOCK",
+      "phase": "SURGE"
+    },
+    {
+      "name": "MOVE_ELECTROWEB",
+      "phase": "BROCK"
+    },
+    {
+      "name": "MOVE_IRONTAIL",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_SUNNYDAY",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_ROCKTOMB",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_DUALCHOP",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_SWORDSDANCE",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_LEECHLIFE",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_METEORBEAM",
+      "phase": "BLAINE"
+    },
+    {
+      "name": "MOVE_REFLECT",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_GYROBALL",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_FLAMETHROWER",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_TOXIC",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_FLAMECHARGE",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_THUNDERWAVE",
+      "phase": "GIOVANNI_2"
+    },
+    {
+      "name": "MOVE_EXPANDINGFORCE",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_POLTERGEIST",
+      "phase": "ELITE_FOUR"
+    },
+    {
+      "name": "MOVE_ICYWIND",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_SOLARBEAM",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_THIEF",
+      "phase": "BROCK"
+    },
+    {
+      "name": "MOVE_ENERGYBALL",
+      "phase": "GIOVANNI_1"
+    },
+    {
+      "name": "MOVE_GRASSYGLIDE",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_SLEEPTALK",
+      "phase": "GIOVANNI_1"
+    },
+    {
+      "name": "MOVE_LOWSWEEP",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_DAZZLINGGLEAM",
+      "phase": "GIOVANNI_1"
+    },
+    {
+      "name": "MOVE_POWERUPPUNCH",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_CHARGEBEAM",
+      "phase": "SURGE"
+    },
+    {
+      "name": "MOVE_TELEPORT",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_TRAILBLAZE",
+      "phase": "SABRINA"
+    },
+    {
+      "name": "MOVE_PSYSHOCK",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_BULLDOZE",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_ACROBATICS",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_SMACKDOWN",
+      "phase": "GIOVANNI_1"
+    },
+    {
+      "name": "MOVE_BULKUP",
+      "phase": "GIOVANNI_2"
+    },
+    {
+      "name": "MOVE_STRENGTH",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_ROCKSMASH",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_HEATCRASH",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_CUT",
+      "phase": "SURGE"
+    },
+    {
+      "name": "MOVE_ICESPINNER",
+      "phase": "BLAINE"
+    },
+    {
+      "name": "MOVE_SURF",
+      "phase": "KOGA"
+    },
+    {
+      "name": "MOVE_BODYPRESS",
+      "phase": "GIOVANNI_3"
+    },
+    {
+      "name": "MOVE_SUPERPOWER",
+      "phase": "BLAINE"
+    },
+    {
+      "name": "MOVE_BRAVEBIRD",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_SNARL",
+      "phase": "MISTY"
+    },
+    {
+      "name": "MOVE_SCORCHINGSANDS",
+      "phase": "GIOVANNI_1"
+    },
+    {
+      "name": "MOVE_FLASH",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_FLY",
+      "phase": "ERIKA"
+    },
+    {
+      "name": "MOVE_TRICKROOM",
+      "phase": "KOGA"
+    }
+  ]
+}
