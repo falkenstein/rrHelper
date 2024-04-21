@@ -10,7 +10,14 @@ import com.lowagie.text.pdf.PdfPCell
 import com.lowagie.text.pdf.PdfPTable
 import com.lowagie.text.pdf.PdfWriter
 import data.DataLoader
+import data.EBoss
+import data.EType
 import gdocs.BossReport
+import org.jfree.chart.ChartFactory
+import org.jfree.chart.ChartUtils
+import org.jfree.data.category.DefaultCategoryDataset
+import species.FullSpeciesData
+import java.io.File
 import java.io.FileOutputStream
 
 class MonotypeStatsMaker {
@@ -66,5 +73,47 @@ class MonotypeStatsMaker {
             }
         }
         return result
+    }
+
+    /**
+     * Draws a line chart of the type progression and provides file name.
+     */
+    fun drawLineChart(runType: EType, bosses: List<BossReport>): String {
+        val lineChartDataset = DefaultCategoryDataset()
+        val typeFrequency = mutableMapOf<EBoss, Map<EType, Int>>()
+        bosses.forEach { boss ->
+            typeFrequency[boss.boss] = boss.team
+                .map { species -> getRecordedType(runType, species) }.groupingBy { it }.eachCount()
+                .map { (type, counts) ->
+                    type to counts + typeFrequency.values.sumOf { it.getOrDefault(type, 0) }
+                }.toMap()
+        }
+        var i = 0
+        typeFrequency.keys.forEach { boss ->
+            typeFrequency[boss]!!.forEach {
+                lineChartDataset.addValue(typeFrequency[boss]!![it.key], it.key.name, i)
+            }
+            i++
+        }
+        val lineChartObject = ChartFactory.createLineChart(
+            "${runType.name} type",
+            "used in run",
+            "boss number",
+            lineChartDataset
+        )
+        val width = 640
+        val height = 480
+        val fileName = "monotype_$runType.jpeg"
+        val lineChart = File(fileName)
+        ChartUtils.saveChartAsJPEG(lineChart, lineChartObject, width, height)
+        return fileName
+    }
+
+    private fun getRecordedType(runType: EType, species: FullSpeciesData): EType {
+        return if (species.types.size > 1) {
+            species.types.first()
+        } else {
+            species.types.first { it != runType }
+        }
     }
 }

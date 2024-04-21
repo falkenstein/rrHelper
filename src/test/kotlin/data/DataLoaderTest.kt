@@ -10,6 +10,7 @@ class DataLoaderTest {
 
     @Test
     fun readTrainers() {
-        loader.readTrainers()
+        val trainerData = loader.readTrainers()
+        println(trainerData)
     }
 }

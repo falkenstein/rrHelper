@@ -15,6 +15,7 @@ import species.RawSpeciesData
 import trainers.MetaTrainerData
 import trainers.RawTrainerData
 import trainers.RawTrainerPokemonData
+import trainers.TrainerFullData
 import java.io.File
 import kotlin.io.encoding.Base64
 import kotlin.io.encoding.ExperimentalEncodingApi
@@ -226,64 +227,49 @@ class DataLoader {
     fun readTrainers(
         allSpeciesData: List<FullSpeciesData> = readSpeciesData(),
         moves: List<MoveAvailabilityData> = readMovesData(),
-    ) {
-        val rawText = object {}.javaClass.getResourceAsStream("/trainers/trainers_raw.txt")?.bufferedReader()?.readText() ?: error("Txt read failed.")
-        val individualRawTrainers = rawText.split("===================================\n")
-        val rawTrainerData = individualRawTrainers.map { trainerBlock ->
+    ): List<TrainerFullData> {
+        val rawText = object {}.javaClass.getResourceAsStream("/trainers/trainers.txt")?.bufferedReader()?.readText() ?: error("Txt read failed.")
+        val individualRawTrainers = rawText.split("\n\n")
+        return individualRawTrainers.map { trainerBlock ->
             val lines = trainerBlock.split("\n")
-            val header = lines.first { it.contains("(id: ") }
-            val pokemonBlocks = mutableMapOf<Int, MutableList<String>>()
-            (0..5).forEach { pokemonBlocks[it] = mutableListOf() }
-            var index = 0
-            lines.drop(2).forEach { row ->
-                if (row.isBlank()) {
-                    index++
-                } else {
-                    pokemonBlocks[index]!!.add(row)
-                }
-            }
-            val rawPokemon = pokemonBlocks.values.filter { it.isNotEmpty() }.map { pokemonBlock ->
-                RawTrainerPokemonData(
-                    name = pokemonBlock[0].substringBefore("(").trim(),
-                    ability = pokemonBlock[1].substringAfter("Ability: ").trim(),
-                    nature = pokemonBlock[5].substringBefore(" Nature"),
-                    moves = (6 until pokemonBlock.size).mapNotNull {
-                        if (pokemonBlock[it].contains("-")) {
-                            pokemonBlock[it].substringAfter("- ")
-                        } else {
-                            null
-                        }
-                    }
+            val boss = EBoss.valueOf(lines.first().trim().replace(" ", "_"))
+            val pokemon = lines.drop(1).filter { it.startsWith("-") }.mapNotNull { line ->
+                val parts = line.substringAfter("-").trim().split(":")
+                trainerDataToInstance(
+                    name = parts[0],
+                    moves = parts[2].substringBefore("]").substringAfter("[").split(","),
+                    ability = parts[1],
+                    allSpeciesData = allSpeciesData,
+                    allMoves = moves,
+                    level = boss.phase.levelCap,
                 )
             }
-            RawTrainerData(header, rawPokemon)
-        }
-        val metaJson = object {}.javaClass.getResourceAsStream("/trainers/trainers_meta.json")?.bufferedReader()?.readText() ?: error("Json read failed.")
-        val metaParsed: Map<String, List<MetaTrainerData>> = mapper.readValue<Map<String, List<MetaTrainerData>>>(metaJson)
-        val trainerMetadata = metaParsed.values.toList().flatten()
-        val trainerFullData = trainerMetadata.map { metadata ->
-            val rawData = rawTrainerData.first { it.header.contains(metadata.id) }
-            val pokemon = rawData.pokemon.map { trainerDataToInstance(it, allSpeciesData, moves, metadata.phase.levelCap) }
+            TrainerFullData(
+                boss = boss,
+                pokemon = pokemon,
+            )
         }
     }
 
     private fun trainerDataToInstance(
-        trainerPokemon: RawTrainerPokemonData,
+        name: String,
+        moves: List<String>,
+        ability: String,
         allSpeciesData: List<FullSpeciesData>,
-        moves: List<MoveAvailabilityData>,
+        allMoves: List<MoveAvailabilityData>,
         level: Int,
     ): PokemonInstance? {
         try {
-            val species = allSpeciesData.first { comparePokemonByName(trainerPokemon.name, it) }
+            val species = allSpeciesData.first { comparePokemonByName(name, it) }
             var hiddenPowerType: EType? = null
-            val knownMoves = trainerPokemon.moves.mapNotNull { trainerMove ->
-                val found = moves.find { trainerMove.equals(it.move.ingameName, ignoreCase = true) }
+            val knownMoves = moves.mapNotNull { trainerMove ->
+                val found = allMoves.find { trainerMove.equals(it.move.ingameName, ignoreCase = true) }
                 val result = found
                     ?: if (trainerMove.contains("Draining Kiss")) {
-                        moves.first { it.move.name == "MOVE_DRAININGKISS" }
+                        allMoves.first { it.move.name == "MOVE_DRAININGKISS" }
                     } else if (trainerMove.contains("Hidden Power")) {
                         hiddenPowerType = EType.valueOf(trainerMove.substringAfterLast(" ").uppercase())
-                        moves.first { it.move.name == "MOVE_HIDDENPOWER" }
+                        allMoves.first { it.move.name == "MOVE_HIDDENPOWER" }
                     } else {
                         null
                     }
@@ -292,13 +278,13 @@ class DataLoader {
             return PokemonInstance(
                 species = species,
                 level = level,
-                ability = trainerPokemon.ability,
+                ability = ability,
                 hp = calculateHp(species.attributes[EAttribute.HP]!!, level),
                 knownMoves = knownMoves.map { it.move },
                 hiddenPowerType = hiddenPowerType,
             )
         } catch (e: Exception) {
-            println("Issues for $trainerPokemon")
+            println("Issues for $name")
             return null
         }
     }

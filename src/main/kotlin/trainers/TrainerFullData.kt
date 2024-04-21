@@ -1,10 +1,10 @@
 package trainers
 
+import data.EBoss
 import data.EGamePhase
 import pokemon.PokemonInstance
 
 data class TrainerFullData(
-    val name: String,
-    val phase: EGamePhase,
+    val boss: EBoss,
     val pokemon: List<PokemonInstance>,
 )

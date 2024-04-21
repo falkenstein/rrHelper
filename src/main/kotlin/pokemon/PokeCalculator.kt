@@ -58,7 +58,7 @@ fun calculateMoveDamage(
     val typeEffectiveness = targetInstance?.species?.let {
         calculateTypeEffectiveness(moveData.type, defensiveTypes = it.types, typeChart, userAbility, targetInstance.ability, moveData)
     } ?: 1F
-    val baseDamage = (((((2 * level / 5F) + 2) * moveData.power * userAttack / targetDefense) / 50 + 2) * typeEffectiveness).toInt()
+    val baseDamage = (((((2 * level / 5F) + 2) * moveData.power * userAttack / targetDefense) / 50 + 2) * typeEffectiveness * 0.92F).toInt()
     if (targetInstance?.ability == "ABILITY_DISGUISE" && targetHp == targetInstance.hp && baseDamage > 0) {
         return targetInstance.hp / 8 // Disguise overrides standard dmg evaluation.
     }

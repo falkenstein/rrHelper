@@ -19,4 +19,5 @@ data class FullSpeciesData(
     val niceName: String,
     val region: String?,
     val form: String?,
+    val mega: Boolean = form?.contains("Mega", ignoreCase = true) ?: false,
 )

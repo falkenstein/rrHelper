@@ -1,0 +1,204 @@
+BROCK 1
+-Geodude-A:Sturdy:[Bulldoze,Rock Tomb,Spark,Self-Destruct]
+-Varoom:Filter:[Gyro Ball,Bulldoze,Toxic,Protect]
+-Onix:Study:[Rock Tomb,Bulldoze,Sleep Talk]
+-Archen:Defeatist:[Pluck,Rock Tomb,Bulldoze,Facade]
+
+MISTY 1
+-Frogadier:Protean:[Ice Punch,Rock Tomb,Flip Turn,Grass Knot]
+-Floatzel:Technician:[Water Pulse,Flip Turn,Icy Wind,HP Grass]
+-Starmie:Analytic:[Psyshock,Water Pulse,Recover,Aurora Beam]
+-Clodsire:Water Absorb:[Poison Jab,Bulldoze,Rock Tomb,Recover]
+
+SURGE 1
+-Pincurchin:Electric Surge:[Volt Switch,Scald,Discharge,HP Ice]
+-Vikavolt:Levitate:[Volt Switch,Bug Buzz,Roost,Mud Shot]
+-Bellibolt:Electromorphosis:[Parabolic Charge,Muddy Water,Thunder Wave,HP Grass]
+-Pawmot:Iron Fist:[Drain Punch,Thunder Punch,Ice Punch,Mach Punch]
+-Manectric-Mega:Intimidate:[Charge Beam,Volt Switch,Flame Burst,HP Grass]
+
+ERIKA 1
+-Rillaboom:Grassy Surge:[Grassy Glide,U-Turn,High Horsep.,Drain Punch]
+-Meowscarada:Protean:[Flower Trick,Knock Off,U-Turn,Triple Axel]
+-Venusaur-Mega:Thick Fat:[Giga Drain,Sludge Bomb,Sleep Powder,Earth Power]
+-Meganium:Triage:[Ancient Power,Giga Drain,Dazz. Gleam,HP Fire]
+-Electrode-H:Reckless:[Thunderbolt,Chloroblast,HP Ice,Explosion]
+
+SABRINA
+-Hatterene:Magic Bounce:[Trick Room,Expand. Force,Draining Kiss,Mystical Fire]
+-Indeedee:Psychic Surge:[Expand. Force,Hyper Voice,Mystical Fire,Shadow Ball]
+-Brute Bonnet:Protosynthesis:[Knock Off,Leaf Blade,Close Combat,Spore]
+-Porygon2:Trace:[Trick Room,Teleport,Ice Beam,Thunderbolt]
+-Ursaluna:Guts:[Protect,High Horsep.,Facade,Crunch]
+-Gardevoir-Mega:Pixilate:[Hyper Voice,Expand. Force,Shadow Ball,Trick Room]
+
+KOGA
+-Swellow:Aerilate:[Boomburst,U-Turn]
+-Accelgor:Sheer Force:[Bug Buzz,U-Turn,Focus Blast,Sludge Bomb]
+-Greninja:Battle Bond:[Hydro Pump,Water Shurik.,Dark Pulse,Ice Beam]
+-Drapion:Sniper:[Wicked Blow,Cross Poison]
+-Iron Valiant:Quark Drive:[Close Combat,Spirit Break,Knock Off,Liquidation]
+-Toxtricity-Mega:Punk Rock:[Boomburst,Overdrive,Sludge Bomb,HP Grass]
+
+BLAINE
+-Armarouge:Mega Launcher:[Armor Cannon,Psyshock,Aura Sphere,Energy Ball]
+-Slither Wing:Protosynthesis:[First Impress.,U-Turn,Close Combat,Flare Blitz]
+-Exeggutor:Chlorophyll:[Growth,Giga Drain,Psyshock,Weather Ball]
+-Typhlosion:Blazing Soul:[Eruption,Flamethrower,HP Grass,Focus Blast]
+-Ogerpon-H:Mold Breaker:[Ivy Cudgel,Horn Leech,Knock Off,U-Turn]
+-Charizard-Mega-Y:Drought:[Flamethrower,Air Slash,Solar Beam,Dragon Pulse]
+
+CLAIR
+-Aerodactyl:Unnerve:[Stealth Rock,Stone Edge,Earthquake,Taunt]
+-Roaring Moon:Protosynthesis:[Dragon Dance,Crunch,Earthquake,Iron Head]
+-Dragonite:Multiscale:[Extreme Speed,Dragon Dance,Fire Punch,Dual Wingbeat]
+-Magearna:Soul-Heart:[Shift Gear,Fleur Cannon,Flash Cannon,Aura Sphere]
+-Gouging Fire:Protosynthesis:[Dragon Dance,Flare Blitz,Earthquake,Dragon Claw]
+-Naganadel:Beast Boost:[Flamethrower,Nasty Plot,Sludge Wave,Draco Meteor]
+
+BROCK 2
+-Great Tusk:Protosynthesis:[Stealth Rock,Close Combat,Headlong Rush,Knock Off]
+-Omastar:Weak Armor:[Shell Smash,Meteor Beam,Surf,Ice Beam]
+-Ursaluna-BM:Scrappy:[Earth Power,Blood Moon,Vacuum Wave,Hyper Voice]
+-Tyranitar:Sand Stream:[Dragon Dance,Stone Edge,Fire Punch,Knock Off]
+-Arcanine-H:Rock Head:[Flare Blitz,Head Smash,Wild Charge,Extreme Speed]
+-Aerodactyl-Mega:Tough Claws:[Dragon Dance,Stone Edge,Earthquake,Dual Wingbeat]
+
+MISTY 2
+-Palafin-Hero:Zero To Hero:[Flip Turn,Wave Crash,Jet Punch,Drain Punch]
+-Kingdra:Swift Swim:[Snipe Shot,Dragon Pulse,Hurricane,Ice Beam]
+-Archaludon:Sturdy:[Electro Shot,Flash Cannon,Dragon Pulse,Body Press]
+-Gyarados-Mega:Mold Breaker:[Dragon Dance,Waterfall,Crunch,Earthquake]
+-Ferrothorn:Iron Barbs:[Leech Seed,Gyro Ball,Power Whip,Thunder Wave]
+-Gorebyss:Dazzling:[Shell Smash,Surf,Ice Beam,Moonblast]
+
+SURGE 2
+-Iron Treads:Quark Drive:[Earthquake,Iron Head,Stealth Rock,Volt Switch]
+-Bellibolt:Electromorphosis:[Parabolic Charge,Hidden Power Grass,Muddy Water,Volt Switch]
+-Rotom-Wash:Levitate:[Volt Switch,Rising Voltage,Scald,Hidden Power Ice]
+-Pawmot:Iron Fist:[Thunder Punch,Close Combat,Mach Punch,Ice Punch]
+-Manectric-Mega:Intimidate:[Volt Switch,Rising Voltage,Flamethrower,Hidden Power Grass]
+-Iron Hands:Quark Drive:[Plasma Fists,Drain Punch,Ice Punch,Fake Out]
+
+ERIKA 2
+-Ogerpon-C:Sturdy:[Horn Leech,Ivy Cudgel,Knock Off,U-Turn]
+-Meowscarada:Protean:[U-Turn,Knock Off,Flower Trick,Triple Axel]
+-Hawlucha:Unburden:[Swords Dance,Close Combat,Acrobatics,Stone Edge]
+-Sinistcha:Heatproof:[Strength Sap,Will-O-Wisp,Shadow Ball,Matcha Got.]
+-Lilligant-H:Hustle:[Victory Dance,Leaf Blade,Close Combat,Ice Spinner]
+-Venusaur-Mega:Thick Fat:[Giga Drain,Earth Power,Synthesis,Sludge Bomb]
+
+BUGSY
+-Lokix:Tinted Lens:[First Impress.,Knock Off,U-Turn,Leech Life]
+-Ledian:Iron Fist:[Drain Punch,Mach Punch,Ice Punch,Thunder Punch]
+-Scyther:Technician:[Bug Bite,Swords Dance,Rock Smash,Aerial Ace]
+-Scizor:Technician:[Bullet Punch,U-Turn,Rock Smash,Aerial Ace]
+
+WHITNEY
+-Tinkaton:Mold Breaker:[Play Rough,Giga. Hammer,Knock Off,Encore]
+-Farigiraf:Parental Bond:[Shadow Ball,Hyper Voice,Psychic,Dazz. Gleam]
+-Miltank:Thick Fat:[Body Slam,Slack Off,Zen Headbutt,High Horsep.]
+-Drampa:Sap Sipper:[Dragon Breath,Roost,Flamethrower,Hyper Voice]
+-Dudunsparce:Serene Grace:[Body Slam,Roost,Bite,Coil]
+
+MORTY
+-Mimikyu:Disguise:[Play Rough,Shadow Claw,Shadow Sneak,Swords Dance]
+-Dusknoir:Hustle:[Shadow Punch,Shadow Sneak,Dynam. Punch,Will-O-Wisp]
+-Zoroark-H:Illusion:[Hyper Voice,Shadow Ball,Flamethrower,Nasty Plot]
+-Skeledirge:Unaware:[Torch Song,Will-O-Wisp,Hex,Slack Off]
+-Gengar-Mega:Shadow Tag:[Sludge Wave,Shadow Ball,Focus Blast,Nasty Plot]
+-Ceruledge:Sharpness:[Bitter Blade,Shadow Sneak,Close Combat,Swords Dance]
+
+CHUCK
+-Hitmontop:Technician:[Triple Kick,Triple Axel,Fake Out,Brutal Swing]
+-Sneasler:Poison Touch:[Close Combat,Poison Jab,Knock Off,Stone Edge]
+-Breloom:Poison Heal:[Spore,Substitute,Focus Punch,Rock Slide]
+-Quaquaval:Moxie:[Aqua Step,Close Combat,Bulk Up,Ice Spinner]
+-Lucario:Inner Focus:[Nasty Plot,Aura Sphere,Vacuum Wave,Flash Cannon]
+-Gallade-Mega:Sharpness:[Bulk Up,Sacred Sword,Psycho Cut,Night Slash]
+
+PRYCE
+-Jynx:Dry Skin:[Lovely Kiss,Psystrike,Freeze-Dry,Focus Blast]
+-Cloyster:Skill Link:[Shell Smash,Icicle Spear,Waterfall,Rock Blast]
+-Walrein:Fur Coat:[Toxic,Rest,Sleep Talk,Ice Beam]
+-Baxcalibur:Thermal Exchange:[Dragon Dance,Icicle Crash,Glaive Rush,Earthquake]
+-Arctozolt:Slush Rush:[Bolt Beak,Icicle Crash,Freeze-Dry,Low Kick]
+-Glalie-Mega:Refrigerate:[Fake Out,Quick Attack,Earthquake,Double-Edge]
+
+JASMINE
+-Steelix:Sturdy:[Stealth Rock,Iron Head,Earthquake,Roar]
+-Melmetal:Iron Fist:[Double I. Bash,Earthquake,Ice Punch,Thunder Punch]
+-Duraludon:Stalwart:[Body Press,Flash Cannon,Thunderbolt,Dragon Pulse]
+-Durant:Hustle:[Iron Head,Close Combat,X-Scissor,Hone Claws]
+-Samurott:Sharpness:[Shell Smash,Cut,Razor Shell,Sacred Sword]
+-Aggron-Mega:Filter:[Heavy Slam,Earthquake,Fire Punch,Body Press]
+
+RIVAL
+-Staraptor:Intimidate:[Brave Bird,Quick Attack,U-Turn,Close Combat]
+-Kingambit:Supreme Overlord:[Iron Head,Swords Dance,Knock Off,Sucker Punch]
+-Darmanitan:Sheer Force:[Flare Blitz,Rock Slide,U-Turn,Earthquake]
+-Iron Bundle:Quark Drive:[Hydro Pump,Freeze-Dry,Flip Turn,Ice Beam]
+-Sneasler:Unburden:[Close Combat,U-Turn,Dire Claw,Fire Punch]
+-Venusaur-Mega:Thick Fat:[Chloroblast,Sludge Bomb,Sleep Powder,Earth Power]
+
+BRENDAN
+-Deoxys-Attack:Pressure:[Psychic,Ice Beam,Superpower,Extreme Speed]
+-Jirachi:Serene Grace:[Iron Head,U-Turn,Thunder Punch,Zen Headbutt]
+-Landorus-I:Sand Force:[Earth Power,Rock Slide,Sludge Wave,Aura Sphere]
+-Zapdos-G:Defiant:[Brave Bird,Close Combat,U-Turn,Blaze Kick]
+-Huntail:Intimidate:[Shell Smash,Liquidation,Crunch,Ice Fang]
+-Sceptile-Mega:Technician:[Swords Dance,Scale Shot,Bullet Seed,Earthquake]
+
+GIOVANNI 1
+-Nidoking:Sheer Force:[Earth Power,Ice Beam,Sludge Bomb,Thunderbolt]
+-Honchkrow:Super Luck:[Night Slash,Sucker Punch,Drill Peck,Heat Wave]
+-Infernape:Blaze:[Swords Dance,Pyro Ball,Close Combat,Thunder Punch]
+-Kangaskhan-Mega:Parental Bond:[Fake Out,Body Slam,Crunch,Pow-Up Punch]
+-Orthworm:Earth Eater:[Shed Tail,Iron Head,Earthquake,Body Press]
+-Veluza:Sharpness:[Fillet Away,Aqua Cutter,Psycho Cut,Aqua Jet]
+
+GIOVANNI 2
+-Hippowdon:Sand Stream:[Stone Edge,Earthquake,Roar,Stealth Rock]
+-Excadrill:Sand Rush:[Earthquake,Iron Head,Rock Slide,Swords Dance]
+-Kangaskhan-Mega:Parental Bond:[Pow-Up Punch,Fake Out,Body Slam,Crunch]
+-Garganacl:Purifying Salt:[Protect,Body Press,Salt Cure,Recover]
+-Garchomp:Sand Veil:[Swords Dance,Earthquake,Rock Slide,Scale Shot]
+-Torterra:Rock Head:[Shell Smash,Wood Hammer,Earthquake,Head Smash]
+
+ADMINS
+-Mamoswine:Thick Fat:[Earthquake,Ice Shard,Endeavor,Icicle Crash]
+-Durant:Hustle:[Hone Claws,Iron Head,X-Scissor,Superpower]
+-Mimikyu:Disguise:[Play Rough,Swords Dance,Shadow Claw,Shadow Sneak]
+-Houndoom-Mega:Dark Aura:[Fiery Wrath,Flamethrower,Sucker Punch,Sludge Bomb]
+-Hatterene:Magic Bounce:[Trick Room,Psychic,Dazz. Gleam,Mystical Fire]
+-Rhyperior:Solid Rock:[Earthquake,Rock Blast,Ice Punch,Heat Crash]
+-Honchkrow:Super Luck:[Sucker Punch,Night Slash,Drill Peck,Superpower]
+-Mawile-Mega:Huge Power:[Sucker Punch,Iron Head,Play Rough,Swords Dance]
+
+GIOVANNI 3
+-Tapu Lele:Psychic Surge:[Moonblast,Psychic,Thunderbolt,Aura Sphere]
+-Scrafty:Intimidate:[Roar,Knock Off,Drain Punch,Ice Punch]
+-Excadrill:Sand Force:[High Horsep.,Iron Head,Rock Slide,Swords Dance]
+-Tyranitar:Sand Stream:[High Horsep.,Knock Off,Rock Slide,Fire Punch]
+-Celesteela:Beast Boost:[Autotomize,Meteor Beam,Flamethrower,Air Slash]
+-Mewtwo-MegaY:Insomnia:[Expand. Force,Soul Robbery,Aura Sphere,Flamethrower]
+
+ELITE_FOUR
+-Politoed:Drizzle:[Flip Turn,Scald,Haze,Rain Dance]
+-Ogerpon-W:Water Absorb:[Ivy Cudgel,Horn Leech,Knock Off,Play Rough]
+-Swampert-Mega:Swift Swim:[Pow-Up Punch,Earthquake,Ice Punch,Waterfall]
+-Walking Wake:Protosynthesis:[Sleep Talk,Hurricane,Hydro Pump,Dragon Pulse]
+-Kyogre-Primal:Primordial Sea:[Water Spout,Origin Pulse,Thunder,Ice Beam]
+-Iron Bundle:Quark Drive:[Hydro Pump,Freeze-Dry,Ice Beam,Flip Turn]
+-Ninetales-A:Snow Warning:[Blizzard,Aurora Veil,Freeze-Dry,Snowscape]
+-Glaceon:Slush Rush:[Blizzard,Earth Power,Freeze-Dry,HP Fire]
+-Rotom-W:Levitate:[Volt Switch,Scald,Thunderbolt,Thunder Wave]
+-Calyrex-I:As One:[Glacial Lance,Zen Headbutt,Seed Bomb,High Horsep.]
+-Abomasnow-Mega:Slush Rush:[Blizzard,Focus Blast,HP Fire,Giga Drain]
+-Baxcalibur:Thermal Exchange:[Glaive Rush,Ice Shard,Icicle Crash,Protect]
+-Great Tusk:Protosynthesis:[Headlong Rush,Close Combat,Stealth Rock,Knock Off]
+-Urshifu-R:Unseen Fist:[Surg. Strikes,Close Combat,Swords Dance,Thunder Punch]
+-Iron Valiant:Quark Drive:[Psyshock,Shadow Ball,Moonblast,Calm Mind]
+-Iron Hands:Quark Drive:[Drain Punch,Fake Out,Plasma Fists,Ice Punch]
+-Zacian-C:Intrepid Sword:[Swords Dance,Behemo. Blade,Close Combat,Wild Charge]
+-Lucario-Mega:Adaptability:[Nasty Plot,Aura Sphere,Vacuum Wave,Flash Cannon]

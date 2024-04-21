@@ -20,9 +20,10 @@ class PhasePokemonConstructor {
         typeChart: TypeChart,
     ): List<PokemonInstance> {
         val availableSpecies = speciesData
-            .filter { it.types.contains(type) && it.available.levelCap <= phase.levelCap }
+            .filter { it.types.contains(type) && it.available.levelCap <= phase.levelCap && !it.mega }
             .groupBy { it.evolutionLine.last() }
             .map { evos -> evos.value.maxBy { it.evolutionLine.indexOf(it.name) } }
+            .plus(speciesData.filter { it.types.contains(type) && it.available.levelCap <= phase.levelCap && it.mega })
         return availableSpecies.map {
             setupPokemonVariationsForPhase(
                 species = it,
@@ -47,7 +48,7 @@ class PhasePokemonConstructor {
             val tmMove = species.tmMoves.find { it.equals(move.move.name, ignoreCase = true) }
             (levelUpMove != null && levelUpMove.second <= phase.levelCap) || (move.tmPhase != null && tmMove != null && move.tmPhase.levelCap <= phase.levelCap)
         }.map { it.move }
-        return species.abilities.map { ability ->
+        return species.abilities.filter { it != "ABILITY_NONE" }.map { ability ->
             val selectedDamageMoves = possibleMoves
                 .filter { it.power > 0 }
                 .groupBy { it.type }

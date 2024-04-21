@@ -1,6 +1,7 @@
 package stats
 
 import data.DataLoader
+import data.EType
 import gdocs.GDocsManager
 import org.junit.Assert.*
 import org.junit.Test
@@ -15,5 +16,10 @@ class MonotypeStatsMakerTest {
     @Test
     fun testPdfSetup() {
         monotypeStatsMaker.composeMonotypeStats(docsManager.parseMonotypeReports(loader.readSpeciesData()))
+    }
+
+    @Test
+    fun testDrawChart() {
+        monotypeStatsMaker.drawLineChart(EType.ICE, docsManager.parseMonotypeReports(loader.readSpeciesData()))
     }
 }
