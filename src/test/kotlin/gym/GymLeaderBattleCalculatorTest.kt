@@ -11,7 +11,7 @@ class GymLeaderBattleCalculatorTest{
 
     @Test
     fun testBattle() {
-        val bestTeam = calculator.calculateBestTeamForGymLeader(EBoss.SURGE_2, EType.POISON)
+        val bestTeam = calculator.calculateBestTeamForGymLeader(EBoss.KOGA, EType.POISON)
         println(bestTeam)
     }
 }

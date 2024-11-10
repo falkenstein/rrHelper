@@ -23,7 +23,7 @@ import java.io.FileOutputStream
 class MonotypeStatsMaker {
 
     private val dataLoader = DataLoader()
-    val font8 = FontFactory.getFont(FontFactory.HELVETICA, 8F);
+    private val font8 = FontFactory.getFont(FontFactory.HELVETICA, 8F);
 
     fun composeMonotypeStats(reports: List<BossReport>) {
 
@@ -111,9 +111,9 @@ class MonotypeStatsMaker {
 
     private fun getRecordedType(runType: EType, species: FullSpeciesData): EType {
         return if (species.types.size > 1) {
-            species.types.first()
-        } else {
             species.types.first { it != runType }
+        } else {
+            species.types.first()
         }
     }
 }
