@@ -80,14 +80,7 @@ class MonotypeStatsMaker {
      */
     fun drawLineChart(runType: EType, bosses: List<BossReport>): String {
         val lineChartDataset = DefaultCategoryDataset()
-        val typeFrequency = mutableMapOf<EBoss, Map<EType, Int>>()
-        bosses.forEach { boss ->
-            typeFrequency[boss.boss] = boss.team
-                .map { species -> getRecordedType(runType, species) }.groupingBy { it }.eachCount()
-                .map { (type, counts) ->
-                    type to counts + typeFrequency.values.sumOf { it.getOrDefault(type, 0) }
-                }.toMap()
-        }
+        val typeFrequency = composeTypeFrequency(bosses.filter { it.type == runType }, runType)
         var i = 0
         typeFrequency.keys.forEach { boss ->
             typeFrequency[boss]!!.forEach {
@@ -107,6 +100,21 @@ class MonotypeStatsMaker {
         val lineChart = File(fileName)
         ChartUtils.saveChartAsJPEG(lineChart, lineChartObject, width, height)
         return fileName
+    }
+
+    /**
+     * Calculates the secondary types used throughout the run.
+     */
+    fun composeTypeFrequency(bosses: List<BossReport>, runType: EType): Map<EBoss, Map<EType, Int>> {
+        val typeFrequency = mutableMapOf<EBoss, Map<EType, Int>>()
+        bosses.forEach { boss ->
+            typeFrequency[boss.boss] = boss.team
+                .map { species -> getRecordedType(runType, species) }.groupingBy { it }.eachCount()
+                .map { (type, counts) ->
+                    type to counts + typeFrequency.values.sumOf { it.getOrDefault(type, 0) }
+                }.toMap()
+        }
+        return typeFrequency
     }
 
     private fun getRecordedType(runType: EType, species: FullSpeciesData): EType {
