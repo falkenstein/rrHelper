@@ -2,20 +2,20 @@ package gdocs
 
 import data.EBoss
 import data.EType
-import species.FullSpeciesData
+import species.SpeciesDto
 
 data class BossReport(
     val boss: EBoss,
     val type: EType,
-    val team: List<FullSpeciesData>,
+    val team: List<SpeciesDto>,
     val difficulty: Int,
 ) {
     override fun toString(): String {
         return "$type|$boss|$difficulty:[${team.joinToString(",") { nicePrint(it) }}]"
     }
 
-    private fun nicePrint(species: FullSpeciesData): String {
+    private fun nicePrint(species: SpeciesDto): String {
         val suffix = species.form ?: species.region
-        return species.niceName + (suffix?.let { "-$it" } ?: "")
+        return species.name + (suffix?.let { "-$it" } ?: "")
     }
 }

@@ -16,7 +16,7 @@ import gdocs.BossReport
 import org.jfree.chart.ChartFactory
 import org.jfree.chart.ChartUtils
 import org.jfree.data.category.DefaultCategoryDataset
-import species.FullSpeciesData
+import species.SpeciesDto
 import java.io.File
 import java.io.FileOutputStream
 
@@ -69,7 +69,7 @@ class MonotypeStatsMaker {
                 result.add(cell)
             } catch (e: Exception) {
                 System.err.println(e.message)
-                System.err.println("Failed row addition for ${species.niceName}")
+                System.err.println("Failed row addition for ${species.name}")
             }
         }
         return result
@@ -117,7 +117,7 @@ class MonotypeStatsMaker {
         return typeFrequency
     }
 
-    private fun getRecordedType(runType: EType, species: FullSpeciesData): EType {
+    private fun getRecordedType(runType: EType, species: SpeciesDto): EType {
         return if (species.types.size > 1) {
             species.types.first { it != runType }
         } else {

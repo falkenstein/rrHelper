@@ -11,7 +11,7 @@ import com.google.auth.oauth2.GoogleCredentials
 import data.DataLoader
 import data.EBoss
 import data.EType
-import species.FullSpeciesData
+import species.SpeciesDto
 import java.io.File
 import java.io.FileInputStream
 
@@ -52,7 +52,7 @@ class GDocsManager {
         return paragraphs
     }
 
-    fun parseMonotypeReports(speciesData: List<FullSpeciesData>): List<BossReport> {
+    fun parseMonotypeReports(speciesData: List<SpeciesDto>): List<BossReport> {
         val paragraphs = readReportDocument()
         val rawTypeSorting = mutableMapOf<EType, MutableList<SimpleParagraph>>()
         var currentType = EType.MYSTERY

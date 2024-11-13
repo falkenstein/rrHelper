@@ -6,15 +6,5 @@ import pokemon.PhasePokemonConstructor
 fun main(args: Array<String>) {
     val loader = DataLoader()
     val typeChart = loader.readTypeChart()
-    val pokemonConstructor = PhasePokemonConstructor()
-    val movesData = loader.readMovesData()
     val speciesData = loader.readSpeciesData()
-    val options = pokemonConstructor.setupPokemonForPhase(
-        EType.ROCK,
-        EGamePhase.BROCK,
-        speciesData,
-        movesData,
-        typeChart,
-    )
-    println(options)
 }

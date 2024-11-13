@@ -9,8 +9,14 @@ class DataLoaderTest {
     private val loader = DataLoader()
 
     @Test
-    fun readTrainers() {
-        val trainerData = loader.readTrainers()
-        println(trainerData)
+    fun testSpeciesLoad() {
+        val species = loader.readSpeciesData()
+//        loader.storeSpeciesDataAsJson(species)
+    }
+
+    @Test
+    fun testFullSpeciesLoad() {
+        val species = loader.readFullSpeciesData()
+        
     }
 }
