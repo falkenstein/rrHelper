@@ -15,8 +15,5 @@ data class SpeciesDto(
      */
     val availability: EGamePhase,
     val starter: Boolean = false,
-    /**
-     * Pokemon with this tag can't be forced into the team before Rocket phase (when all stones become routinely available).
-     */
-    val stone: Boolean = false,
+    val tags: List<ETag>? = emptyList(),
 )
