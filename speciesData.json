@@ -7555,7 +7555,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -7567,7 +7567,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -7580,7 +7580,7 @@
       "GRASS",
       "FIGHTING"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -7592,7 +7592,7 @@
     "types": [
       "FIRE"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -7604,7 +7604,7 @@
     "types": [
       "FIRE"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -7617,7 +7617,7 @@
       "FIRE",
       "PSYCHIC"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -7629,7 +7629,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -7641,7 +7641,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -7654,7 +7654,7 @@
       "WATER",
       "DARK"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -7666,7 +7666,7 @@
     "types": [
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 660,
@@ -7678,7 +7678,7 @@
       "NORMAL",
       "GROUND"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 661,
@@ -7714,7 +7714,7 @@
       "FIRE",
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 664,
@@ -7772,7 +7772,7 @@
       "FIRE",
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 669,
@@ -7805,7 +7805,7 @@
     "types": [
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 672,
@@ -7827,7 +7827,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 674,
@@ -7850,7 +7850,7 @@
       "FIGHTING",
       "DARK"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 676,
@@ -7861,7 +7861,7 @@
     "types": [
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 677,
@@ -7883,7 +7883,7 @@
     "types": [
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 679,
@@ -7895,7 +7895,7 @@
       "STEEL",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 680,
@@ -7907,7 +7907,7 @@
       "STEEL",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 681,
@@ -7919,7 +7919,7 @@
       "STEEL",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 682,
@@ -7930,7 +7930,7 @@
     "types": [
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 683,
@@ -7941,7 +7941,7 @@
     "types": [
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 684,
@@ -7952,7 +7952,7 @@
     "types": [
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 685,
@@ -7963,7 +7963,7 @@
     "types": [
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 686,
@@ -7975,7 +7975,7 @@
       "DARK",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 687,
@@ -7987,7 +7987,7 @@
       "DARK",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 688,
@@ -8011,7 +8011,7 @@
       "ROCK",
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 690,
@@ -8023,7 +8023,7 @@
       "POISON",
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 691,
@@ -8035,7 +8035,7 @@
       "POISON",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 692,
@@ -8046,7 +8046,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 693,
@@ -8057,7 +8057,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 694,
@@ -8069,7 +8069,7 @@
       "ELECTRIC",
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 695,
@@ -8081,7 +8081,7 @@
       "ELECTRIC",
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 696,
@@ -8093,7 +8093,7 @@
       "ROCK",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 697,
@@ -8105,7 +8105,7 @@
       "ROCK",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 698,
@@ -8117,7 +8117,7 @@
       "ROCK",
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 699,
@@ -8129,7 +8129,7 @@
       "ROCK",
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 700,
@@ -8140,7 +8140,7 @@
     "types": [
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 701,
@@ -8152,7 +8152,7 @@
       "FIGHTING",
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 702,
@@ -8164,7 +8164,7 @@
       "ELECTRIC",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 703,
@@ -8176,7 +8176,7 @@
       "ROCK",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 704,
@@ -8187,7 +8187,7 @@
     "types": [
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 705,
@@ -8198,7 +8198,7 @@
     "types": [
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 706,
@@ -8209,7 +8209,7 @@
     "types": [
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 707,
@@ -8221,7 +8221,7 @@
       "STEEL",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 708,
@@ -8245,7 +8245,7 @@
       "GHOST",
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 710,
@@ -8269,7 +8269,7 @@
       "GHOST",
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 712,
@@ -8280,7 +8280,7 @@
     "types": [
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 713,
@@ -8291,7 +8291,7 @@
     "types": [
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 714,
@@ -8315,7 +8315,7 @@
       "FLYING",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 716,
@@ -8326,7 +8326,7 @@
     "types": [
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 717,
@@ -8338,7 +8338,7 @@
       "DARK",
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 718,
@@ -8350,7 +8350,7 @@
       "DRAGON",
       "GROUND"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 719,
@@ -8362,7 +8362,10 @@
       "ROCK",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "CLAIR",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 720,
@@ -8374,7 +8377,10 @@
       "PSYCHIC",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 721,
@@ -8386,7 +8392,10 @@
       "FIRE",
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 722,
@@ -8398,7 +8407,7 @@
       "GRASS",
       "FLYING"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -8411,7 +8420,7 @@
       "GRASS",
       "FLYING"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -8424,7 +8433,7 @@
       "GRASS",
       "GHOST"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -8436,7 +8445,7 @@
     "types": [
       "FIRE"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -8448,7 +8457,7 @@
     "types": [
       "FIRE"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -8461,7 +8470,7 @@
       "FIRE",
       "DARK"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -8473,7 +8482,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -8485,7 +8494,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -8498,7 +8507,7 @@
       "WATER",
       "FAIRY"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -8535,7 +8544,7 @@
       "NORMAL",
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 734,
@@ -8592,7 +8601,7 @@
       "BUG",
       "ELECTRIC"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 739,
@@ -8603,7 +8612,7 @@
     "types": [
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 740,
@@ -8615,7 +8624,7 @@
       "FIGHTING",
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 741,
@@ -8627,7 +8636,7 @@
       "FIRE",
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 742,
@@ -8651,7 +8660,7 @@
       "BUG",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 744,
@@ -8673,7 +8682,7 @@
     "types": [
       "ROCK"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 746,
@@ -8684,7 +8693,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 747,
@@ -8696,7 +8705,7 @@
       "POISON",
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 748,
@@ -8708,7 +8717,7 @@
       "POISON",
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 749,
@@ -8730,7 +8739,7 @@
     "types": [
       "GROUND"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 751,
@@ -8742,7 +8751,7 @@
       "WATER",
       "BUG"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 752,
@@ -8754,7 +8763,7 @@
       "WATER",
       "BUG"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 753,
@@ -8765,7 +8774,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 754,
@@ -8776,7 +8785,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 755,
@@ -8800,7 +8809,7 @@
       "GRASS",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 757,
@@ -8812,7 +8821,7 @@
       "POISON",
       "FIRE"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 758,
@@ -8824,7 +8833,7 @@
       "POISON",
       "FIRE"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 759,
@@ -8836,7 +8845,7 @@
       "NORMAL",
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 760,
@@ -8848,7 +8857,7 @@
       "NORMAL",
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 761,
@@ -8859,7 +8868,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 762,
@@ -8870,7 +8879,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 763,
@@ -8881,7 +8890,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 764,
@@ -8892,7 +8901,7 @@
     "types": [
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 765,
@@ -8904,7 +8913,7 @@
       "NORMAL",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 766,
@@ -8915,7 +8924,7 @@
     "types": [
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 767,
@@ -8927,7 +8936,7 @@
       "BUG",
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 768,
@@ -8939,7 +8948,7 @@
       "BUG",
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 769,
@@ -8963,7 +8972,7 @@
       "GHOST",
       "GROUND"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 771,
@@ -8974,7 +8983,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY"
   },
   {
     "id": 772,
@@ -8985,7 +8994,7 @@
     "types": [
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY"
   },
   {
     "id": 773,
@@ -8996,7 +9005,7 @@
     "types": [
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY"
   },
   {
     "id": 774,
@@ -9008,7 +9017,7 @@
       "ROCK",
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 775,
@@ -9019,7 +9028,7 @@
     "types": [
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 776,
@@ -9031,7 +9040,7 @@
       "FIRE",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 777,
@@ -9043,7 +9052,7 @@
       "ELECTRIC",
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 778,
@@ -9055,7 +9064,7 @@
       "GHOST",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 779,
@@ -9067,7 +9076,7 @@
       "WATER",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 780,
@@ -9079,7 +9088,7 @@
       "NORMAL",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 781,
@@ -9091,7 +9100,7 @@
       "GHOST",
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "CLAIR"
   },
   {
     "id": 782,
@@ -9102,7 +9111,7 @@
     "types": [
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 783,
@@ -9114,7 +9123,7 @@
       "DRAGON",
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 784,
@@ -9126,7 +9135,7 @@
       "DRAGON",
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 785,
@@ -9138,7 +9147,10 @@
       "ELECTRIC",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 786,
@@ -9150,7 +9162,10 @@
       "PSYCHIC",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 787,
@@ -9162,7 +9177,10 @@
       "GRASS",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 788,
@@ -9174,7 +9192,10 @@
       "WATER",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 789,
@@ -9185,7 +9206,7 @@
     "types": [
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 790,
@@ -9196,7 +9217,7 @@
     "types": [
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 791,
@@ -9208,7 +9229,7 @@
       "PSYCHIC",
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 792,
@@ -9220,7 +9241,7 @@
       "PSYCHIC",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 793,
@@ -9232,7 +9253,10 @@
       "ROCK",
       "POISON"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 794,
@@ -9244,7 +9268,10 @@
       "BUG",
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 795,
@@ -9256,7 +9283,10 @@
       "BUG",
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 796,
@@ -9267,7 +9297,10 @@
     "types": [
       "ELECTRIC"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 797,
@@ -9279,7 +9312,10 @@
       "STEEL",
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 798,
@@ -9291,7 +9327,10 @@
       "GRASS",
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 799,
@@ -9303,7 +9342,10 @@
       "DARK",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 800,
@@ -9314,7 +9356,10 @@
     "types": [
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "CLAIR",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 801,
@@ -9326,7 +9371,7 @@
       "STEEL",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 802,
@@ -9338,7 +9383,7 @@
       "FIGHTING",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 803,
@@ -9349,7 +9394,10 @@
     "types": [
       "POISON"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 804,
@@ -9361,7 +9409,10 @@
       "POISON",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 805,
@@ -9373,7 +9424,10 @@
       "ROCK",
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 806,
@@ -9385,7 +9439,10 @@
       "FIRE",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 807,
@@ -9396,7 +9453,10 @@
     "types": [
       "ELECTRIC"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 808,
@@ -9407,7 +9467,7 @@
     "types": [
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 809,
@@ -9418,7 +9478,7 @@
     "types": [
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 810,
@@ -9429,7 +9489,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -9441,7 +9501,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -9453,7 +9513,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -9465,7 +9525,7 @@
     "types": [
       "FIRE"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -9477,7 +9537,7 @@
     "types": [
       "FIRE"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -9489,7 +9549,7 @@
     "types": [
       "FIRE"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -9501,7 +9561,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -9513,7 +9573,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -9525,7 +9585,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -9548,7 +9608,7 @@
     "types": [
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 821,
@@ -9559,7 +9619,7 @@
     "types": [
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 822,
@@ -9570,7 +9630,7 @@
     "types": [
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 823,
@@ -9582,7 +9642,7 @@
       "FLYING",
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 824,
@@ -9617,7 +9677,7 @@
       "BUG",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 827,
@@ -9650,7 +9710,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 830,
@@ -9661,7 +9721,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 831,
@@ -9683,7 +9743,7 @@
     "types": [
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 833,
@@ -9717,7 +9777,7 @@
     "types": [
       "ELECTRIC"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 836,
@@ -9728,7 +9788,7 @@
     "types": [
       "ELECTRIC"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 837,
@@ -9763,7 +9823,7 @@
       "ROCK",
       "FIRE"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 840,
@@ -9787,7 +9847,7 @@
       "GRASS",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 842,
@@ -9799,7 +9859,7 @@
       "GRASS",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 843,
@@ -9821,7 +9881,7 @@
     "types": [
       "GROUND"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 845,
@@ -9833,7 +9893,7 @@
       "FLYING",
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "BLAINE"
   },
   {
     "id": 846,
@@ -9844,7 +9904,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 847,
@@ -9855,7 +9915,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 848,
@@ -9867,7 +9927,10 @@
       "ELECTRIC",
       "POISON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 849,
@@ -9879,7 +9942,10 @@
       "ELECTRIC",
       "POISON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 850,
@@ -9891,7 +9957,7 @@
       "FIRE",
       "BUG"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 851,
@@ -9903,7 +9969,7 @@
       "FIRE",
       "BUG"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 852,
@@ -9914,7 +9980,7 @@
     "types": [
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 853,
@@ -9925,7 +9991,7 @@
     "types": [
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 854,
@@ -9947,7 +10013,7 @@
     "types": [
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 856,
@@ -9958,7 +10024,7 @@
     "types": [
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 857,
@@ -9969,7 +10035,7 @@
     "types": [
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 858,
@@ -9981,7 +10047,7 @@
       "PSYCHIC",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 859,
@@ -9993,7 +10059,10 @@
       "DARK",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 860,
@@ -10005,7 +10074,10 @@
       "DARK",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 861,
@@ -10017,7 +10089,10 @@
       "DARK",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 862,
@@ -10029,7 +10104,7 @@
       "DARK",
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 863,
@@ -10040,7 +10115,7 @@
     "types": [
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 864,
@@ -10051,7 +10126,7 @@
     "types": [
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 865,
@@ -10062,7 +10137,7 @@
     "types": [
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 866,
@@ -10074,7 +10149,7 @@
       "ICE",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 867,
@@ -10086,7 +10161,7 @@
       "GROUND",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 868,
@@ -10097,7 +10172,10 @@
     "types": [
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 869,
@@ -10108,7 +10186,10 @@
     "types": [
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 870,
@@ -10119,7 +10200,7 @@
     "types": [
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 871,
@@ -10130,7 +10211,7 @@
     "types": [
       "ELECTRIC"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 872,
@@ -10165,7 +10246,7 @@
     "types": [
       "ROCK"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 875,
@@ -10176,7 +10257,7 @@
     "types": [
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 876,
@@ -10188,7 +10269,7 @@
       "PSYCHIC",
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 877,
@@ -10200,7 +10281,7 @@
       "ELECTRIC",
       "DARK"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 878,
@@ -10211,7 +10292,7 @@
     "types": [
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 879,
@@ -10222,7 +10303,7 @@
     "types": [
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 880,
@@ -10234,7 +10315,7 @@
       "ELECTRIC",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 881,
@@ -10246,7 +10327,7 @@
       "ELECTRIC",
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 882,
@@ -10258,7 +10339,7 @@
       "WATER",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 883,
@@ -10270,7 +10351,7 @@
       "WATER",
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 884,
@@ -10282,7 +10363,7 @@
       "STEEL",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 885,
@@ -10294,7 +10375,7 @@
       "DRAGON",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 886,
@@ -10306,7 +10387,7 @@
       "DRAGON",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 887,
@@ -10318,7 +10399,7 @@
       "DRAGON",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 888,
@@ -10329,7 +10410,7 @@
     "types": [
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 889,
@@ -10340,7 +10421,7 @@
     "types": [
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 890,
@@ -10352,7 +10433,7 @@
       "POISON",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 891,
@@ -10363,7 +10444,7 @@
     "types": [
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 892,
@@ -10375,7 +10456,7 @@
       "FIGHTING",
       "DARK"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 893,
@@ -10387,7 +10468,7 @@
       "DARK",
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 894,
@@ -10398,7 +10479,7 @@
     "types": [
       "ELECTRIC"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 895,
@@ -10409,7 +10490,7 @@
     "types": [
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 896,
@@ -10420,7 +10501,7 @@
     "types": [
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 897,
@@ -10431,7 +10512,7 @@
     "types": [
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 898,
@@ -10443,7 +10524,7 @@
       "PSYCHIC",
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 899,
@@ -10455,7 +10536,7 @@
       "NORMAL",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 900,
@@ -10467,7 +10548,7 @@
       "BUG",
       "ROCK"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 901,
@@ -10479,7 +10560,7 @@
       "GROUND",
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 902,
@@ -10491,7 +10572,7 @@
       "WATER",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 903,
@@ -10503,7 +10584,7 @@
       "FIGHTING",
       "POISON"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 904,
@@ -10515,7 +10596,7 @@
       "DARK",
       "POISON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 905,
@@ -10527,7 +10608,7 @@
       "FAIRY",
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 906,
@@ -10538,7 +10619,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -10550,7 +10631,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -10563,7 +10644,7 @@
       "GRASS",
       "DARK"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -10575,7 +10656,7 @@
     "types": [
       "FIRE"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -10587,7 +10668,7 @@
     "types": [
       "FIRE"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -10600,7 +10681,7 @@
       "FIRE",
       "GHOST"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -10612,7 +10693,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -10624,7 +10705,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -10637,7 +10718,7 @@
       "WATER",
       "FIGHTING"
     ],
-    "availability": "MISTY",
+    "availability": "ROCKET",
     "starter": true
   },
   {
@@ -10705,7 +10786,7 @@
       "BUG",
       "DARK"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 921,
@@ -10740,7 +10821,7 @@
       "ELECTRIC",
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 924,
@@ -10751,7 +10832,7 @@
     "types": [
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 925,
@@ -10762,7 +10843,7 @@
     "types": [
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 926,
@@ -10784,7 +10865,7 @@
     "types": [
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 928,
@@ -10808,7 +10889,7 @@
       "GRASS",
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 930,
@@ -10820,7 +10901,7 @@
       "GRASS",
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 931,
@@ -10832,7 +10913,7 @@
       "NORMAL",
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 932,
@@ -10854,7 +10935,7 @@
     "types": [
       "ROCK"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 934,
@@ -10865,7 +10946,7 @@
     "types": [
       "ROCK"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 935,
@@ -10876,7 +10957,7 @@
     "types": [
       "FIRE"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 936,
@@ -10888,7 +10969,7 @@
       "FIRE",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 937,
@@ -10900,7 +10981,7 @@
       "FIRE",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 938,
@@ -10911,7 +10992,7 @@
     "types": [
       "ELECTRIC"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 939,
@@ -10922,7 +11003,7 @@
     "types": [
       "ELECTRIC"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 940,
@@ -10946,7 +11027,7 @@
       "ELECTRIC",
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 942,
@@ -10968,7 +11049,7 @@
     "types": [
       "DARK"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 944,
@@ -10992,7 +11073,7 @@
       "POISON",
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 946,
@@ -11016,7 +11097,7 @@
       "GRASS",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 948,
@@ -11040,7 +11121,7 @@
       "GROUND",
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 950,
@@ -11051,7 +11132,7 @@
     "types": [
       "ROCK"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 951,
@@ -11074,7 +11155,7 @@
       "GRASS",
       "FIRE"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 953,
@@ -11108,7 +11189,7 @@
     "types": [
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 956,
@@ -11119,7 +11200,7 @@
     "types": [
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 957,
@@ -11143,7 +11224,7 @@
       "FAIRY",
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 959,
@@ -11155,7 +11236,7 @@
       "FAIRY",
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 960,
@@ -11189,7 +11270,7 @@
       "FLYING",
       "DARK"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 963,
@@ -11200,7 +11281,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "BLAINE"
   },
   {
     "id": 964,
@@ -11211,7 +11292,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "BLAINE"
   },
   {
     "id": 965,
@@ -11235,7 +11316,7 @@
       "STEEL",
       "POISON"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 967,
@@ -11247,7 +11328,7 @@
       "DRAGON",
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 968,
@@ -11258,7 +11339,7 @@
     "types": [
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 969,
@@ -11270,7 +11351,7 @@
       "ROCK",
       "POISON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 970,
@@ -11282,7 +11363,7 @@
       "ROCK",
       "POISON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 971,
@@ -11304,7 +11385,7 @@
     "types": [
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 973,
@@ -11316,7 +11397,7 @@
       "FLYING",
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 974,
@@ -11327,7 +11408,7 @@
     "types": [
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 975,
@@ -11338,7 +11419,7 @@
     "types": [
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 976,
@@ -11350,7 +11431,7 @@
       "WATER",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 977,
@@ -11361,7 +11442,7 @@
     "types": [
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 978,
@@ -11373,7 +11454,7 @@
       "DRAGON",
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 979,
@@ -11385,7 +11466,7 @@
       "FIGHTING",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 980,
@@ -11409,7 +11490,7 @@
       "NORMAL",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 982,
@@ -11420,7 +11501,7 @@
     "types": [
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 983,
@@ -11432,7 +11513,7 @@
       "DARK",
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 984,
@@ -11444,7 +11525,7 @@
       "GROUND",
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY"
   },
   {
     "id": 985,
@@ -11456,7 +11537,7 @@
       "FAIRY",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 986,
@@ -11468,7 +11549,7 @@
       "GRASS",
       "DARK"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 987,
@@ -11480,7 +11561,7 @@
       "GHOST",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "ELITE_FOUR"
   },
   {
     "id": 988,
@@ -11492,7 +11573,7 @@
       "BUG",
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 989,
@@ -11504,7 +11585,7 @@
       "ELECTRIC",
       "GROUND"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 990,
@@ -11516,7 +11597,7 @@
       "GROUND",
       "STEEL"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY"
   },
   {
     "id": 991,
@@ -11528,7 +11609,7 @@
       "ICE",
       "WATER"
     ],
-    "availability": "MISTY"
+    "availability": "ELITE_FOUR"
   },
   {
     "id": 992,
@@ -11540,7 +11621,7 @@
       "FIGHTING",
       "ELECTRIC"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 993,
@@ -11552,7 +11633,7 @@
       "DARK",
       "FLYING"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 994,
@@ -11564,7 +11645,7 @@
       "FIRE",
       "POISON"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 995,
@@ -11576,7 +11657,7 @@
       "ROCK",
       "ELECTRIC"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 996,
@@ -11588,7 +11669,7 @@
       "DRAGON",
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 997,
@@ -11600,7 +11681,7 @@
       "DRAGON",
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 998,
@@ -11612,7 +11693,7 @@
       "DRAGON",
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "WEATHER"
   },
   {
     "id": 999,
@@ -11623,7 +11704,7 @@
     "types": [
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 1000,
@@ -11635,7 +11716,7 @@
       "STEEL",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 1001,
@@ -11647,7 +11728,7 @@
       "DARK",
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY"
   },
   {
     "id": 1002,
@@ -11659,7 +11740,7 @@
       "DARK",
       "ICE"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY"
   },
   {
     "id": 1003,
@@ -11671,7 +11752,7 @@
       "DARK",
       "GROUND"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY"
   },
   {
     "id": 1004,
@@ -11683,7 +11764,7 @@
       "DARK",
       "FIRE"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY"
   },
   {
     "id": 1005,
@@ -11695,7 +11776,7 @@
       "DRAGON",
       "DARK"
     ],
-    "availability": "MISTY"
+    "availability": "ELITE_FOUR"
   },
   {
     "id": 1006,
@@ -11707,7 +11788,7 @@
       "FAIRY",
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "ELITE_FOUR"
   },
   {
     "id": 1007,
@@ -11719,7 +11800,7 @@
       "FIGHTING",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 1008,
@@ -11731,7 +11812,7 @@
       "ELECTRIC",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "POST_GAME"
   },
   {
     "id": 1009,
@@ -11743,7 +11824,7 @@
       "WATER",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "ELITE_FOUR"
   },
   {
     "id": 1010,
@@ -11755,7 +11836,10 @@
       "GRASS",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 1011,
@@ -11767,7 +11851,7 @@
       "GRASS",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "SURGE"
   },
   {
     "id": 1012,
@@ -11791,7 +11875,7 @@
       "GRASS",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 1014,
@@ -11803,7 +11887,10 @@
       "POISON",
       "FIGHTING"
     ],
-    "availability": "MISTY"
+    "availability": "BLAINE",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 1015,
@@ -11815,7 +11902,10 @@
       "POISON",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "BLAINE",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 1016,
@@ -11827,7 +11917,10 @@
       "POISON",
       "FAIRY"
     ],
-    "availability": "MISTY"
+    "availability": "BLAINE",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 1017,
@@ -11838,7 +11931,7 @@
     "types": [
       "GRASS"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 1018,
@@ -11850,7 +11943,7 @@
       "STEEL",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "KOGA"
   },
   {
     "id": 1019,
@@ -11862,7 +11955,7 @@
       "GRASS",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "ROCKET"
   },
   {
     "id": 1020,
@@ -11874,7 +11967,7 @@
       "FIRE",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY"
   },
   {
     "id": 1021,
@@ -11886,7 +11979,7 @@
       "ELECTRIC",
       "DRAGON"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY"
   },
   {
     "id": 1022,
@@ -11898,7 +11991,10 @@
       "ROCK",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 1023,
@@ -11910,7 +12006,10 @@
       "STEEL",
       "PSYCHIC"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY",
+    "tags": [
+      "RAID"
+    ]
   },
   {
     "id": 1024,
@@ -11921,7 +12020,7 @@
     "types": [
       "NORMAL"
     ],
-    "availability": "MISTY"
+    "availability": "VICTORY"
   },
   {
     "id": 1025,
@@ -11933,6 +12032,6 @@
       "POISON",
       "GHOST"
     ],
-    "availability": "MISTY"
+    "availability": "CLAIR"
   }
 ]

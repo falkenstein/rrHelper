@@ -2,8 +2,6 @@ package data
 
 import org.junit.Test
 
-import org.junit.Assert.*
-
 class DataLoaderTest {
 
     private val loader = DataLoader()
@@ -17,9 +15,9 @@ class DataLoaderTest {
     @Test
     fun testFullSpeciesLoad() {
         val species = loader.readFullSpeciesData()
-        val fourGens = species.filter { it.id <= 494 }
+        val alreadyProcessed = species.filter { it.id <= 852 }
         val firstPhaseFrequency = EType.entries.associateWith { type ->
-            fourGens.count { it.types.contains(type) && it.availability == EGamePhase.MISTY }
+            alreadyProcessed.count { it.types.contains(type) && it.availability == EGamePhase.MISTY }
         }
         println(firstPhaseFrequency)
     }
