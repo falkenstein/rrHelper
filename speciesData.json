@@ -229,6 +229,30 @@
     "availability": "MISTY"
   },
   {
+    "id": 19,
+    "evolvesFromId": null,
+    "name": "Rattata",
+    "form": null,
+    "region": "ALOLA",
+    "types": [
+      "NORMAL",
+      "DARK"
+    ],
+    "availability": "MISTY"
+  },
+  {
+    "id": 20,
+    "evolvesFromId": 19,
+    "name": "Raticate",
+    "form": null,
+    "region": "ALOLA",
+    "types": [
+      "NORMAL",
+      "DARK"
+    ],
+    "availability": "MISTY"
+  },
+  {
     "id": 20,
     "evolvesFromId": 19,
     "name": "Raticate",
@@ -1020,6 +1044,18 @@
     "availability": "MISTY"
   },
   {
+    "id": 88,
+    "evolvesFromId": null,
+    "name": "Grimer",
+    "form": null,
+    "region": "ALOLA",
+    "types": [
+      "POISON",
+      "DARK"
+    ],
+    "availability": "MISTY"
+  },
+  {
     "id": 89,
     "evolvesFromId": 88,
     "name": "Muk",
@@ -1027,6 +1063,18 @@
     "region": null,
     "types": [
       "POISON"
+    ],
+    "availability": "ROCKET"
+  },
+  {
+    "id": 89,
+    "evolvesFromId": 88,
+    "name": "Muk",
+    "form": null,
+    "region": "ALOLA",
+    "types": [
+      "POISON",
+      "DARK"
     ],
     "availability": "ROCKET"
   },
@@ -1265,6 +1313,18 @@
     "region": null,
     "types": [
       "POISON"
+    ],
+    "availability": "WEATHER"
+  },
+  {
+    "id": 110,
+    "evolvesFromId": 109,
+    "name": "Weezing",
+    "form": null,
+    "region": "GALAR",
+    "types": [
+      "POISON",
+      "FAIRY"
     ],
     "availability": "WEATHER"
   },
@@ -2239,6 +2299,18 @@
     "availability": "MISTY"
   },
   {
+    "id": 194,
+    "evolvesFromId": null,
+    "name": "Wooper",
+    "form": null,
+    "region": "PALDEA",
+    "types": [
+      "POISON",
+      "GROUND"
+    ],
+    "availability": "MISTY"
+  },
+  {
     "id": 195,
     "evolvesFromId": 194,
     "name": "Quagsire",
@@ -2434,6 +2506,18 @@
     "availability": "SURGE"
   },
   {
+    "id": 211,
+    "evolvesFromId": null,
+    "name": "Qwilfish",
+    "form": null,
+    "region": "HISUI",
+    "types": [
+      "DARK",
+      "POISON"
+    ],
+    "availability": "SURGE"
+  },
+  {
     "id": 212,
     "evolvesFromId": 123,
     "name": "Scizor",
@@ -2478,6 +2562,18 @@
     "types": [
       "DARK",
       "ICE"
+    ],
+    "availability": "ROCKET"
+  },
+  {
+    "id": 215,
+    "evolvesFromId": null,
+    "name": "Sneasel",
+    "form": null,
+    "region": "HISUI",
+    "types": [
+      "POISON",
+      "FIGHTING"
     ],
     "availability": "ROCKET"
   },
@@ -2607,6 +2703,18 @@
       "FLYING"
     ],
     "availability": "KOGA"
+  },
+  {
+    "id": 226,
+    "evolvesFromId": 458,
+    "name": "Mantine",
+    "form": null,
+    "region": "SEVII",
+    "types": [
+      "ELECTRIC",
+      "POISON"
+    ],
+    "availability": "SURGE"
   },
   {
     "id": 227,
@@ -5270,6 +5378,18 @@
     "availability": "KOGA"
   },
   {
+    "id": 455,
+    "evolvesFromId": null,
+    "name": "Carnivine",
+    "form": null,
+    "region": "SEVII",
+    "types": [
+      "POISON",
+      "STEEL"
+    ],
+    "availability": "MISTY"
+  },
+  {
     "id": 456,
     "evolvesFromId": null,
     "name": "Finneon",
@@ -5302,6 +5422,18 @@
       "FLYING"
     ],
     "availability": "SURGE"
+  },
+  {
+    "id": 458,
+    "evolvesFromId": null,
+    "name": "Mantyke",
+    "form": null,
+    "region": "SEVII",
+    "types": [
+      "ELECTRIC",
+      "POISON"
+    ],
+    "availability": "MISTY"
   },
   {
     "id": 459,

@@ -41,7 +41,7 @@ class DataLoader {
         return species
     }
 
-    fun readFullSpeciesData(): List<SpeciesDto> {
+    fun readFullSpeciesDataFromJson(): List<SpeciesDto> {
         val jsonFile = File("speciesData.json")
         val text = jsonFile.readText()
         val allSpecies: List<SpeciesDto> = mapper.readValue(text)

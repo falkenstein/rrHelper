@@ -8,7 +8,7 @@ data class SpeciesDto(
     val evolvesFromId: Int?,
     val name: String,
     val form: String? = null,
-    val region: String? = null,
+    val region: ERegion? = null,
     val types: List<EType>,
     /**
      * The first phase where the species is available since its start.
