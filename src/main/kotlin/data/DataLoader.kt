@@ -20,6 +20,8 @@ class DataLoader {
             ?: error("CSV read failed.")
         val csvTypes = object {}.javaClass.getResourceAsStream("/pokedata/pokemon_types.csv")?.bufferedReader()?.readText()
             ?: error("CSV read failed.")
+        val csvStats = object {}.javaClass.getResourceAsStream("/pokedata/pokemon_stats.csv")?.bufferedReader()?.readText()
+            ?: error("CSV read failed.")
         val speciesRows = csvSpecies.split("\n").drop(1)
         val namesIds = csvNames.split("\n").drop(1)
             .filter { it.substringAfter(",").substringBefore(",").toIntOrNull() == 9 }
@@ -28,14 +30,22 @@ class DataLoader {
             .map { it.substringBefore(",").toInt() to it.split(",")[1].toInt() }
             .groupBy { it.first }
             .map { it.key to it.value.map { value -> value.second } }.toMap()
+        val statsForSpecies = csvStats.split("\n")
+            .drop(1)
+            .map { row -> with(row.split(",")) { get(0).toInt() to get(2).toInt() } } // Row of species mapped to individual stats
+            .groupBy { it.first } // Group by species id.
+            .map { entry -> entry.key to entry.value.map { it.second }.sum() } // Stat totals
+            .toMap()
         val species = speciesRows.map { row ->
             val id = row.substringBefore(",").toInt()
             SpeciesDto(
                 id = id,
                 name = namesIds[id]!!,
-                types = typesIds[id]!!.map { typeId -> EType.entries.first { type -> type.id == typeId } },
+                types = typesIds[id]!!.map { typeId -> EType.entries.first { type -> type.id == typeId } }.toSet(),
                 availability = EGamePhase.MISTY,
                 evolvesFromId = row.split(",")[3].toIntOrNull(),
+                statsTotal = statsForSpecies[id]!!,
+                tier = 0,
             )
         }
         return species
@@ -89,7 +99,7 @@ class DataLoader {
                 "Galar", "G" -> "Galarian"
                 else -> suffix
             }
-            return (mappedSuffix == species.region || mappedSuffix == species.form)
+            return (mappedSuffix == species.region?.name || mappedSuffix == species.form)
                     && rawName.substringBefore("-").equals(species.name, ignoreCase = true)
         } else {
             return rawName.equals(species.name, ignoreCase = true)
