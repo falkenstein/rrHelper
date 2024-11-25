@@ -88,4 +88,10 @@ class MonotypeFlow {
         val maxBanCount = minOf(allOptions.size / 3, phase.ordinal + 4)
         return tieredOptions.shuffled().take(maxBanCount)
     }
+
+    fun getStartingOptions(type: EType): StartingOptionsDto {
+        val starters = allSpecies.filter { it.starter && it.evolvesFromId == null && it.types.contains(type) }
+        val randomSix = allSpecies.filter { it.types.contains(type) && it.evolvesFromId == null && it.statsTotal < 550 }
+        return StartingOptionsDto(starters, randomSix)
+    }
 }

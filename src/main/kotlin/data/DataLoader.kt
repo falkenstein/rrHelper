@@ -4,6 +4,7 @@ import com.fasterxml.jackson.databind.DeserializationFeature
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.KotlinModule
 import com.fasterxml.jackson.module.kotlin.readValue
+import monotype.MonotypeRunDto
 import species.SpeciesDto
 import java.io.File
 
@@ -113,5 +114,16 @@ class DataLoader {
         val json = mapper.writeValueAsString(species)
         val file = File("speciesData2.json")
         file.writeText(json)
+    }
+
+    fun saveRun(runDto: MonotypeRunDto) {
+        val json = mapper.writeValueAsString(runDto)
+        val file = File("runData${runDto.id}.json")
+        file.writeText(json)
+    }
+
+    fun loadRun(id: Int): MonotypeRunDto {
+        val json = File("runData$id.json").readText()
+        return mapper.readValue(json)
     }
 }

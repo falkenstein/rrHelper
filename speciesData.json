@@ -477,7 +477,8 @@
     "starter": false,
     "tags": [],
     "statsTotal": 275,
-    "tier": 0
+    "tier": 0,
+    "sprite": "29_Nidoran_Female.png"
   },
   {
     "id": 30,
@@ -523,7 +524,8 @@
     "starter": false,
     "tags": [],
     "statsTotal": 273,
-    "tier": 0
+    "tier": 0,
+    "sprite": "32_Nidoran_Male.png"
   },
   {
     "id": 33,
@@ -1408,7 +1410,8 @@
     "starter": false,
     "tags": [],
     "statsTotal": 325,
-    "tier": 0
+    "tier": 0,
+    "sprite": "88_Grimer_Alolan.png"
   },
   {
     "id": 89,
@@ -1439,7 +1442,8 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 3,
+    "sprite": "89_Muk_Alolan.png"
   },
   {
     "id": 90,

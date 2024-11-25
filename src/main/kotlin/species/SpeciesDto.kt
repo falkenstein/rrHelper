@@ -18,6 +18,7 @@ data class SpeciesDto(
     val tags: List<ETag>? = emptyList(),
     val statsTotal: Int,
     val tier: Int,
+    val sprite: String = "${id}_$name.png",
 ) {
     override fun toString(): String {
         return name + (region ?: "")
