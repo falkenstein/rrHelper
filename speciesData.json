@@ -262,7 +262,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 349,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 18,
@@ -372,7 +372,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 442,
-    "tier": 2
+    "tier": 3
   },
   {
     "id": 23,
@@ -396,13 +396,14 @@
     "form": null,
     "region": null,
     "types": [
-      "POISON"
+      "POISON",
+      "DARK"
     ],
     "availability": "MISTY",
     "starter": false,
     "tags": [],
     "statsTotal": 448,
-    "tier": 2
+    "tier": 4
   },
   {
     "id": 25,
@@ -426,13 +427,14 @@
     "form": null,
     "region": null,
     "types": [
-      "ELECTRIC"
+      "ELECTRIC",
+      "NORMAL"
     ],
     "availability": "ROCKET",
     "starter": false,
     "tags": [],
     "statsTotal": 485,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 27,
@@ -601,7 +603,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 299,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 38,
@@ -648,7 +650,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 435,
-    "tier": 2
+    "tier": 3
   },
   {
     "id": 41,
@@ -786,13 +788,13 @@
     "region": null,
     "types": [
       "BUG",
-      "POISON"
+      "PSYCHIC"
     ],
     "availability": "SURGE",
     "starter": false,
     "tags": [],
     "statsTotal": 450,
-    "tier": 2
+    "tier": 3
   },
   {
     "id": 50,
@@ -876,13 +878,14 @@
     "form": null,
     "region": null,
     "types": [
-      "WATER"
+      "WATER",
+      "PSYCHIC"
     ],
     "availability": "SURGE",
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 56,
@@ -927,7 +930,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 350,
-    "tier": 1
+    "tier": 2
   },
   {
     "id": 59,
@@ -1018,7 +1021,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 400,
-    "tier": 1
+    "tier": 2
   },
   {
     "id": 65,
@@ -1033,7 +1036,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 66,
@@ -1142,7 +1145,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 335,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 73,
@@ -1174,7 +1177,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 300,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 75,
@@ -1190,7 +1193,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 390,
-    "tier": 1
+    "tier": 2
   },
   {
     "id": 76,
@@ -1236,7 +1239,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 79,
@@ -1252,7 +1255,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 315,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 80,
@@ -1268,7 +1271,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 490,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 81,
@@ -1284,7 +1287,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 325,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 82,
@@ -1332,7 +1335,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 310,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 85,
@@ -1379,7 +1382,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 475,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 88,
@@ -1394,7 +1397,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 325,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 88,
@@ -1410,8 +1413,8 @@
     "starter": false,
     "tags": [],
     "statsTotal": 325,
-    "tier": 0,
-    "sprite": "88_Grimer_Alolan.png"
+    "sprite": "88_Grimer_Alolan.png",
+    "tier": 1
   },
   {
     "id": 89,
@@ -1426,7 +1429,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 89,
@@ -1442,7 +1445,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3,
+    "tier": 4,
     "sprite": "89_Muk_Alolan.png"
   },
   {
@@ -1490,7 +1493,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 310,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 93,
@@ -1522,7 +1525,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 95,
@@ -1553,7 +1556,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 328,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 97,
@@ -1583,7 +1586,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 325,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 99,
@@ -1613,7 +1616,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 330,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 101,
@@ -1628,7 +1631,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 490,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 102,
@@ -1644,7 +1647,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 325,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 103,
@@ -1675,7 +1678,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 320,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 105,
@@ -1690,7 +1693,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 425,
-    "tier": 2
+    "tier": 3
   },
   {
     "id": 106,
@@ -1765,7 +1768,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 490,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 110,
@@ -1781,7 +1784,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 490,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 111,
@@ -1797,7 +1800,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 345,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 112,
@@ -1828,7 +1831,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 450,
-    "tier": 2
+    "tier": 4
   },
   {
     "id": 114,
@@ -1858,7 +1861,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 490,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 116,
@@ -1903,7 +1906,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 320,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 119,
@@ -1933,7 +1936,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 340,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 121,
@@ -1981,7 +1984,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 124,
@@ -1997,7 +2000,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 455,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 125,
@@ -2042,7 +2045,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 128,
@@ -2057,7 +2060,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 490,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 129,
@@ -2194,7 +2197,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 395,
-    "tier": 1
+    "tier": 2
   },
   {
     "id": 138,
@@ -2226,7 +2229,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 495,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 140,
@@ -2258,7 +2261,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 495,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 142,
@@ -2636,13 +2639,13 @@
     "region": null,
     "types": [
       "BUG",
-      "FLYING"
+      "FIGHTING"
     ],
     "availability": "MISTY",
     "starter": false,
     "tags": [],
     "statsTotal": 390,
-    "tier": 1
+    "tier": 2
   },
   {
     "id": 167,
@@ -2674,7 +2677,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 400,
-    "tier": 1
+    "tier": 2
   },
   {
     "id": 169,
@@ -2722,7 +2725,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 460,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 172,
@@ -2831,7 +2834,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 470,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 179,
@@ -2923,7 +2926,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 420,
-    "tier": 2
+    "tier": 3
   },
   {
     "id": 185,
@@ -2953,7 +2956,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 187,
@@ -3078,7 +3081,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 210,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 194,
@@ -3094,7 +3097,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 210,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 195,
@@ -3110,7 +3113,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 430,
-    "tier": 2
+    "tier": 3
   },
   {
     "id": 196,
@@ -3172,7 +3175,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 490,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 200,
@@ -3264,7 +3267,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 465,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 206,
@@ -3341,7 +3344,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 450,
-    "tier": 2
+    "tier": 3
   },
   {
     "id": 211,
@@ -3389,7 +3392,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 213,
@@ -3421,7 +3424,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 215,
@@ -3437,7 +3440,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 430,
-    "tier": 2
+    "tier": 3
   },
   {
     "id": 215,
@@ -3453,7 +3456,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 430,
-    "tier": 2
+    "tier": 3
   },
   {
     "id": 216,
@@ -3483,7 +3486,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 218,
@@ -3530,7 +3533,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 250,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 221,
@@ -3546,7 +3549,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 450,
-    "tier": 2
+    "tier": 3
   },
   {
     "id": 222,
@@ -3638,9 +3641,9 @@
     ],
     "availability": "SURGE",
     "starter": false,
-    "tags": [],
+.    "tags": [],
     "statsTotal": 485,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 227,
@@ -3688,7 +3691,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 230,
@@ -3734,7 +3737,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 233,
@@ -3819,7 +3822,7 @@
     "region": null,
     "types": [
       "ICE",
-      "PSYCHIC"
+.      "PSYCHIC"
     ],
     "availability": "MISTY",
     "starter": false,
@@ -4334,7 +4337,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 340,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 272,
@@ -4350,7 +4353,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 480,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 273,
@@ -4461,7 +4464,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 440,
-    "tier": 2
+    "tier": 4
   },
   {
     "id": 280,
@@ -4493,7 +4496,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 278,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 282,
@@ -4572,7 +4575,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 460,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 287,
@@ -4665,7 +4668,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 236,
-    "tier": 0
+    "tier": 4
   },
   {
     "id": 293,
@@ -4710,7 +4713,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 490,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 296,
@@ -4801,7 +4804,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 400,
-    "tier": 1
+    "tier": 2
   },
   {
     "id": 302,
@@ -4958,7 +4961,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 405,
-    "tier": 2
+    "tier": 1
   },
   {
     "id": 312,
@@ -4973,7 +4976,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 405,
-    "tier": 2
+    "tier": 1
   },
   {
     "id": 313,
@@ -4988,7 +4991,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 430,
-    "tier": 2
+    "tier": 4
   },
   {
     "id": 314,
@@ -5003,7 +5006,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 430,
-    "tier": 2
+    "tier": 4
   },
   {
     "id": 315,
@@ -5065,7 +5068,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 305,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 319,
@@ -5081,7 +5084,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 460,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 320,
@@ -5111,7 +5114,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 322,
@@ -5158,7 +5161,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 470,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 325,
@@ -5234,7 +5237,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 340,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 330,
@@ -5313,9 +5316,9 @@
     "starter": false,
     "tags": [],
     "statsTotal": 490,
-    "tier": 3
+    "tier": 4
   },
-  {
+.  {
     "id": 335,
     "evolvesFromId": null,
     "name": "Zangoose",
@@ -5470,7 +5473,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 345,
@@ -5502,7 +5505,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 495,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 347,
@@ -5534,7 +5537,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 495,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 349,
@@ -5823,7 +5826,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 485,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 368,
@@ -5838,7 +5841,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 485,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 369,
@@ -6296,7 +6299,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 340,
-    "tier": 0
+    "tier": 1
   },
   {
     "id": 398,
@@ -6480,7 +6483,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 495,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 410,
@@ -6512,7 +6515,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 495,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 412,
@@ -6666,7 +6669,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 450,
-    "tier": 2
+    "tier": 3
   },
   {
     "id": 422,
@@ -6744,7 +6747,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 498,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 427,
@@ -6789,7 +6792,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 495,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 430,
@@ -6914,7 +6917,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 438,
@@ -7148,7 +7151,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 500,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 453,
@@ -7180,7 +7183,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 490,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 455,
@@ -7305,7 +7308,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 494,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 461,
@@ -7585,7 +7588,7 @@
     "starter": false,
     "tags": [],
     "statsTotal": 480,
-    "tier": 3
+    "tier": 4
   },
   {
     "id": 479,
