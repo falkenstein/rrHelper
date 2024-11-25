@@ -3641,7 +3641,7 @@
     ],
     "availability": "SURGE",
     "starter": false,
-.    "tags": [],
+    "tags": [],
     "statsTotal": 485,
     "tier": 4
   },
@@ -3822,7 +3822,7 @@
     "region": null,
     "types": [
       "ICE",
-.      "PSYCHIC"
+      "PSYCHIC"
     ],
     "availability": "MISTY",
     "starter": false,
@@ -5318,7 +5318,7 @@
     "statsTotal": 490,
     "tier": 4
   },
-.  {
+  {
     "id": 335,
     "evolvesFromId": null,
     "name": "Zangoose",
