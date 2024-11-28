@@ -1312,7 +1312,7 @@
     "form": null,
     "region": null,
     "types": [
-      "NORMAL",
+      "FIGHTING",
       "FLYING"
     ],
     "availability": "SURGE",
@@ -2101,7 +2101,7 @@
     "region": null,
     "types": [
       "WATER",
-      "ICE"
+      "DRAGON"
     ],
     "availability": "WEATHER",
     "starter": false,
@@ -2455,7 +2455,8 @@
     "form": null,
     "region": null,
     "types": [
-      "GRASS"
+      "GRASS",
+      "FAIRY"
     ],
     "availability": "ROCKET",
     "starter": true,
@@ -2888,7 +2889,8 @@
     "form": null,
     "region": null,
     "types": [
-      "GRASS"
+      "GRASS",
+      "FAIRY"
     ],
     "availability": "ROCKET",
     "starter": false,
@@ -3338,7 +3340,8 @@
     "form": null,
     "region": null,
     "types": [
-      "FAIRY"
+      "FAIRY",
+      "FIGHTING"
     ],
     "availability": "SURGE",
     "starter": false,
@@ -4068,7 +4071,8 @@
     "form": null,
     "region": null,
     "types": [
-      "GRASS"
+      "GRASS",
+      "DRAGON"
     ],
     "availability": "ROCKET",
     "starter": true,
@@ -4985,7 +4989,8 @@
     "form": null,
     "region": null,
     "types": [
-      "BUG"
+      "BUG",
+      "ELECTRIC"
     ],
     "availability": "SURGE",
     "starter": false,
@@ -5000,7 +5005,8 @@
     "form": null,
     "region": null,
     "types": [
-      "BUG"
+      "BUG",
+      "FAIRY"
     ],
     "availability": "SURGE",
     "starter": false,
@@ -5667,7 +5673,7 @@
     "region": null,
     "types": [
       "GRASS",
-      "FLYING"
+      "DRAGON"
     ],
     "availability": "SURGE",
     "starter": false,
@@ -5820,7 +5826,8 @@
     "form": null,
     "region": null,
     "types": [
-      "WATER"
+      "WATER",
+      "DARK"
     ],
     "availability": "ROCKET",
     "starter": false,
@@ -5835,7 +5842,8 @@
     "form": null,
     "region": null,
     "types": [
-      "WATER"
+      "WATER",
+      "FAIRY"
     ],
     "availability": "ROCKET",
     "starter": false,
@@ -5866,7 +5874,8 @@
     "form": null,
     "region": null,
     "types": [
-      "WATER"
+      "WATER",
+      "FAIRY"
     ],
     "availability": "KOGA",
     "starter": false,
@@ -6415,7 +6424,8 @@
     "form": null,
     "region": null,
     "types": [
-      "ELECTRIC"
+      "ELECTRIC",
+      "DARK"
     ],
     "availability": "SURGE",
     "starter": false,
@@ -6786,7 +6796,8 @@
     "form": null,
     "region": null,
     "types": [
-      "GHOST"
+      "GHOST",
+      "FAIRY"
     ],
     "availability": "ROCKET",
     "starter": false,
@@ -7979,7 +7990,8 @@
     "form": null,
     "region": null,
     "types": [
-      "WATER"
+      "WATER",
+      "STEEL"
     ],
     "availability": "ROCKET",
     "starter": true,
@@ -9695,7 +9707,8 @@
     "form": null,
     "region": null,
     "types": [
-      "ICE"
+      "ICE",
+      "FIGHTING"
     ],
     "availability": "ROCKET",
     "starter": false,
@@ -13453,7 +13466,8 @@
     "form": null,
     "region": null,
     "types": [
-      "FIGHTING"
+      "FIGHTING",
+      "WATER"
     ],
     "availability": "ROCKET",
     "starter": false,
@@ -13468,7 +13482,8 @@
     "form": null,
     "region": null,
     "types": [
-      "FIGHTING"
+      "FIGHTING",
+      "WATER"
     ],
     "availability": "ROCKET",
     "starter": false,
@@ -13740,7 +13755,8 @@
     "form": null,
     "region": null,
     "types": [
-      "FIGHTING"
+      "FIGHTING",
+      "BUG"
     ],
     "availability": "ROCKET",
     "starter": false,
@@ -13755,7 +13771,8 @@
     "form": null,
     "region": null,
     "types": [
-      "ELECTRIC"
+      "ELECTRIC",
+      "WATER"
     ],
     "availability": "ROCKET",
     "starter": false,
