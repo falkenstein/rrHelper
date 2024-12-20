@@ -1,18 +1,13 @@
-package stats
+package com.falkenstein.rrweb.gdocs.stats
 
-import com.lowagie.text.Document
-import com.lowagie.text.FontFactory
-import com.lowagie.text.Image
-import com.lowagie.text.PageSize
-import com.lowagie.text.Phrase
-import com.lowagie.text.Table
+import com.falkenstein.rrweb.data.DataLoader
+import com.falkenstein.rrweb.gdocs.BossReport
+import com.lowagie.text.*
 import com.lowagie.text.pdf.PdfPCell
 import com.lowagie.text.pdf.PdfPTable
 import com.lowagie.text.pdf.PdfWriter
-import data.DataLoader
 import data.EBoss
 import data.EType
-import gdocs.BossReport
 import org.jfree.chart.ChartFactory
 import org.jfree.chart.ChartUtils
 import org.jfree.data.category.DefaultCategoryDataset

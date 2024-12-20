@@ -1,4 +1,4 @@
-package gdocs
+package com.falkenstein.rrweb.gdocs
 
 data class SimpleParagraph(
     val style: String,

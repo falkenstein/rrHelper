@@ -1,4 +1,4 @@
-package monotype
+package com.falkenstein.rrweb.monotype
 
 import data.EGamePhase
 import species.SpeciesDto

@@ -1,4 +1,4 @@
-package stats
+package com.falkenstein.rrweb.gdocs.stats
 
 import com.lowagie.text.Element
 import data.EBoss

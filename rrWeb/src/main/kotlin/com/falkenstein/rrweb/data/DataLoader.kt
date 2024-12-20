@@ -1,10 +1,14 @@
-package data
+package com.falkenstein.rrweb.data
 
 import com.fasterxml.jackson.databind.DeserializationFeature
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.KotlinModule
 import com.fasterxml.jackson.module.kotlin.readValue
-import monotype.MonotypeRunDto
+import data.EGamePhase
+import data.EType
+import data.TypeChart
+import data.TypeEffectiveness
+import com.falkenstein.rrweb.monotype.MonotypeRunDto
 import species.SpeciesDto
 import java.io.File
 
@@ -14,7 +18,10 @@ class DataLoader {
         .configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false)
         .registerModule(KotlinModule.Builder().build())
 
-    fun readSpeciesData(): List<SpeciesDto> {
+    /**
+     * The initiator method for setting up species data. Marked as private for now, so that we avoid accidentally running it.
+     */
+    private fun readSpeciesData(): List<SpeciesDto> {
         val csvSpecies = object {}.javaClass.getResourceAsStream("/pokedata/pokemon_species.csv")?.bufferedReader()?.readText()
             ?: error("CSV read failed.")
         val csvNames = object {}.javaClass.getResourceAsStream("/pokedata/pokemon_species_names.csv")?.bufferedReader()?.readText()
@@ -52,11 +59,19 @@ class DataLoader {
         return species
     }
 
+    /**
+     * The standard method for loading species JSON.
+     */
     fun readFullSpeciesDataFromJson(): List<SpeciesDto> {
-        val jsonFile = File("speciesData.json")
-        val text = jsonFile.readText()
-        val allSpecies: List<SpeciesDto> = mapper.readValue(text)
-        return allSpecies
+        try {
+            val jsonFile = File("speciesData.json")
+            val text = jsonFile.readText()
+            val allSpecies: List<SpeciesDto> = mapper.readValue(text)
+            return allSpecies
+        } catch (e: Exception) {
+            println("ERROR: ${e.message}")
+            return emptyList()
+        }
     }
 
     /**
@@ -116,14 +131,21 @@ class DataLoader {
         file.writeText(json)
     }
 
-    fun saveRun(runDto: MonotypeRunDto) {
-        val json = mapper.writeValueAsString(runDto)
-        val file = File("runData${runDto.id}.json")
+    fun saveRuns(runsDto: List<MonotypeRunDto>) {
+        val json = mapper.writeValueAsString(runsDto)
+        val file = File("runsData.json")
         file.writeText(json)
     }
 
-    fun loadRun(id: Int): MonotypeRunDto {
-        val json = File("runData$id.json").readText()
-        return mapper.readValue(json)
+    /**
+     * Loads stored runs. It's perfectly fine to load an empty list - if nothing exists yet.
+     */
+    fun loadRuns(): List<MonotypeRunDto> {
+        try {
+            val json = File("runsData.json").readText()
+            return mapper.readValue(json)
+        } catch (e: Exception) {
+            return emptyList()
+        }
     }
 }

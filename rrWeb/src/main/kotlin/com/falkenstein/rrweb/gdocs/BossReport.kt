@@ -1,4 +1,4 @@
-package gdocs
+package com.falkenstein.rrweb.gdocs
 
 import data.EBoss
 import data.EType

@@ -1,5 +1,6 @@
-package gdocs
+package com.falkenstein.rrweb.gdocs
 
+import com.falkenstein.rrweb.data.DataLoader
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport
 import com.google.api.client.http.javanet.NetHttpTransport
 import com.google.api.client.json.gson.GsonFactory
@@ -8,7 +9,6 @@ import com.google.api.services.docs.v1.DocsScopes
 import com.google.api.services.docs.v1.model.Document
 import com.google.auth.http.HttpCredentialsAdapter
 import com.google.auth.oauth2.GoogleCredentials
-import data.DataLoader
 import data.EBoss
 import data.EType
 import species.SpeciesDto

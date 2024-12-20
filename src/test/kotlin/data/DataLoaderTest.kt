@@ -4,11 +4,11 @@ import org.junit.Test
 
 class DataLoaderTest {
 
-    private val loader = DataLoader()
+//    private val loader = DataLoader()
 
     @Test
     fun testSpeciesLoad() {
-        val species = loader.readSpeciesData()
+//        val species = loader.readSpeciesData()
 //        loader.storeSpeciesDataAsJson(species)
     }
 
@@ -27,28 +27,28 @@ class DataLoaderTest {
 
     @Test
     fun fillTierProperty() {
-        val species = loader.readFullSpeciesDataFromJson()
-        val speciesWithTier = species.map { spec ->
-            spec.copy(
-                tier = when {
-                    spec.statsTotal < 350 -> 0
-                    spec.statsTotal <= 400 -> 1
-                    spec.statsTotal <= 450 -> 2
-                    spec.statsTotal <= 500 -> 3
-                    else -> 4
-                }
-            )
-        }
-        loader.storeSpeciesDataAsJson(speciesWithTier)
+//        val species = loader.readFullSpeciesDataFromJson()
+//        val speciesWithTier = species.map { spec ->
+//            spec.copy(
+//                tier = when {
+//                    spec.statsTotal < 350 -> 0
+//                    spec.statsTotal <= 400 -> 1
+//                    spec.statsTotal <= 450 -> 2
+//                    spec.statsTotal <= 500 -> 3
+//                    else -> 4
+//                }
+//            )
+//        }
+//        loader.storeSpeciesDataAsJson(speciesWithTier)
     }
 
     @Test
     fun testFullSpeciesLoad() {
-        val species = loader.readFullSpeciesDataFromJson()
-        val alreadyProcessed = species.filter { it.id <= 852 }
-        val firstPhaseFrequency = EType.entries.associateWith { type ->
-            alreadyProcessed.count { it.types.contains(type) && it.availability == EGamePhase.MISTY }
-        }
-        println(firstPhaseFrequency)
+//        val species = loader.readFullSpeciesDataFromJson()
+//        val alreadyProcessed = species.filter { it.id <= 852 }
+//        val firstPhaseFrequency = EType.entries.associateWith { type ->
+//            alreadyProcessed.count { it.types.contains(type) && it.availability == EGamePhase.MISTY }
+//        }
+//        println(firstPhaseFrequency)
     }
 }
